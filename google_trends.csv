@@ -1,0 +1,2185 @@
+brand,Country,Date,ParsedDate,interest,Geo
+DemoBrand,United States,2024-01-01,2024-01-01,28.11,US
+DemoBrand,United States,2024-01-02,2024-01-02,28.91,US
+DemoBrand,United States,2024-01-03,2024-01-03,23.54,US
+DemoBrand,United States,2024-01-04,2024-01-04,25.25,US
+DemoBrand,United States,2024-01-05,2024-01-05,28.5,US
+DemoBrand,United States,2024-01-06,2024-01-06,27.98,US
+DemoBrand,United States,2024-01-07,2024-01-07,28.94,US
+DemoBrand,United States,2024-01-08,2024-01-08,27.59,US
+DemoBrand,United States,2024-01-09,2024-01-09,31.35,US
+DemoBrand,United States,2024-01-10,2024-01-10,31.41,US
+DemoBrand,United States,2024-01-11,2024-01-11,30.22,US
+DemoBrand,United States,2024-01-12,2024-01-12,32.53,US
+DemoBrand,United States,2024-01-13,2024-01-13,31.37,US
+DemoBrand,United States,2024-01-14,2024-01-14,28.82,US
+DemoBrand,United States,2024-01-15,2024-01-15,31.34,US
+DemoBrand,United States,2024-01-16,2024-01-16,28.71,US
+DemoBrand,United States,2024-01-17,2024-01-17,32.37,US
+DemoBrand,United States,2024-01-18,2024-01-18,30.45,US
+DemoBrand,United States,2024-01-19,2024-01-19,30.07,US
+DemoBrand,United States,2024-01-20,2024-01-20,28.93,US
+DemoBrand,United States,2024-01-21,2024-01-21,32.55,US
+DemoBrand,United States,2024-01-22,2024-01-22,29.57,US
+DemoBrand,United States,2024-01-23,2024-01-23,28.76,US
+DemoBrand,United States,2024-01-24,2024-01-24,28.61,US
+DemoBrand,United States,2024-01-25,2024-01-25,30.06,US
+DemoBrand,United States,2024-01-26,2024-01-26,29.38,US
+DemoBrand,United States,2024-01-27,2024-01-27,29.1,US
+DemoBrand,United States,2024-01-28,2024-01-28,28.75,US
+DemoBrand,United States,2024-01-29,2024-01-29,31.76,US
+DemoBrand,United States,2024-01-30,2024-01-30,26.26,US
+DemoBrand,United States,2024-01-31,2024-01-31,25.63,US
+DemoBrand,United States,2024-02-01,2024-02-01,24.61,US
+DemoBrand,United States,2024-02-02,2024-02-02,27.05,US
+DemoBrand,United States,2024-02-03,2024-02-03,27.68,US
+DemoBrand,United States,2024-02-04,2024-02-04,24.8,US
+DemoBrand,United States,2024-02-05,2024-02-05,22.98,US
+DemoBrand,United States,2024-02-06,2024-02-06,22.66,US
+DemoBrand,United States,2024-02-07,2024-02-07,25.29,US
+DemoBrand,United States,2024-02-08,2024-02-08,25.18,US
+DemoBrand,United States,2024-02-09,2024-02-09,24.51,US
+DemoBrand,United States,2024-02-10,2024-02-10,21.87,US
+DemoBrand,United States,2024-02-11,2024-02-11,23.48,US
+DemoBrand,United States,2024-02-12,2024-02-12,23.1,US
+DemoBrand,United States,2024-02-13,2024-02-13,23.19,US
+DemoBrand,United States,2024-02-14,2024-02-14,24.44,US
+DemoBrand,United States,2024-02-15,2024-02-15,23.12,US
+DemoBrand,United States,2024-02-16,2024-02-16,24.05,US
+DemoBrand,United States,2024-02-17,2024-02-17,22.9,US
+DemoBrand,United States,2024-02-18,2024-02-18,23.45,US
+DemoBrand,United States,2024-02-19,2024-02-19,24.29,US
+DemoBrand,United States,2024-02-20,2024-02-20,20.3,US
+DemoBrand,United States,2024-02-21,2024-02-21,22.81,US
+DemoBrand,United States,2024-02-22,2024-02-22,22.77,US
+DemoBrand,United States,2024-02-23,2024-02-23,22.73,US
+DemoBrand,United States,2024-02-24,2024-02-24,23.78,US
+DemoBrand,United States,2024-02-25,2024-02-25,27.68,US
+DemoBrand,United States,2024-02-26,2024-02-26,23.33,US
+DemoBrand,United States,2024-02-27,2024-02-27,27.39,US
+DemoBrand,United States,2024-02-28,2024-02-28,22.49,US
+DemoBrand,United States,2024-02-29,2024-02-29,25.6,US
+DemoBrand,United States,2024-03-01,2024-03-01,27.02,US
+DemoBrand,United States,2024-03-02,2024-03-02,28.29,US
+DemoBrand,United States,2024-03-03,2024-03-03,28.95,US
+DemoBrand,United States,2024-03-04,2024-03-04,29.52,US
+DemoBrand,United States,2024-03-05,2024-03-05,27.63,US
+DemoBrand,United States,2024-03-06,2024-03-06,27.78,US
+DemoBrand,United States,2024-03-07,2024-03-07,30.77,US
+DemoBrand,United States,2024-03-08,2024-03-08,29.0,US
+DemoBrand,United States,2024-03-09,2024-03-09,27.13,US
+DemoBrand,United States,2024-03-10,2024-03-10,27.68,US
+DemoBrand,United States,2024-03-11,2024-03-11,28.33,US
+DemoBrand,United States,2024-03-12,2024-03-12,31.36,US
+DemoBrand,United States,2024-03-13,2024-03-13,30.8,US
+DemoBrand,United States,2024-03-14,2024-03-14,32.01,US
+DemoBrand,United States,2024-03-15,2024-03-15,29.84,US
+DemoBrand,United States,2024-03-16,2024-03-16,31.03,US
+DemoBrand,United States,2024-03-17,2024-03-17,31.95,US
+DemoBrand,United States,2024-03-18,2024-03-18,30.01,US
+DemoBrand,United States,2024-03-19,2024-03-19,31.44,US
+DemoBrand,United States,2024-03-20,2024-03-20,29.05,US
+DemoBrand,United States,2024-03-21,2024-03-21,29.46,US
+DemoBrand,United States,2024-03-22,2024-03-22,29.2,US
+DemoBrand,United States,2024-03-23,2024-03-23,27.31,US
+DemoBrand,United States,2024-03-24,2024-03-24,30.38,US
+DemoBrand,United States,2024-03-25,2024-03-25,28.14,US
+DemoBrand,United States,2024-03-26,2024-03-26,28.75,US
+DemoBrand,United States,2024-03-27,2024-03-27,29.32,US
+DemoBrand,United States,2024-03-28,2024-03-28,28.86,US
+DemoBrand,United States,2024-03-29,2024-03-29,28.9,US
+DemoBrand,United States,2024-03-30,2024-03-30,26.96,US
+DemoBrand,United States,2024-03-31,2024-03-31,25.89,US
+DemoBrand,United States,2024-04-01,2024-04-01,26.16,US
+DemoBrand,United States,2024-04-02,2024-04-02,22.53,US
+DemoBrand,United States,2024-04-03,2024-04-03,22.61,US
+DemoBrand,United States,2024-04-04,2024-04-04,22.47,US
+DemoBrand,United States,2024-04-05,2024-04-05,22.75,US
+DemoBrand,United States,2024-04-06,2024-04-06,25.19,US
+DemoBrand,United States,2024-04-07,2024-04-07,22.26,US
+DemoBrand,United States,2024-04-08,2024-04-08,23.02,US
+DemoBrand,United States,2024-04-09,2024-04-09,26.11,US
+DemoBrand,United States,2024-04-10,2024-04-10,22.57,US
+DemoBrand,United States,2024-04-11,2024-04-11,24.57,US
+DemoBrand,United States,2024-04-12,2024-04-12,21.08,US
+DemoBrand,United States,2024-04-13,2024-04-13,22.43,US
+DemoBrand,United States,2024-04-14,2024-04-14,20.88,US
+DemoBrand,United States,2024-04-15,2024-04-15,22.08,US
+DemoBrand,United States,2024-04-16,2024-04-16,24.46,US
+DemoBrand,United States,2024-04-17,2024-04-17,19.39,US
+DemoBrand,United States,2024-04-18,2024-04-18,23.83,US
+DemoBrand,United States,2024-04-19,2024-04-19,23.58,US
+DemoBrand,United States,2024-04-20,2024-04-20,22.11,US
+DemoBrand,United States,2024-04-21,2024-04-21,20.64,US
+DemoBrand,United States,2024-04-22,2024-04-22,23.94,US
+DemoBrand,United States,2024-04-23,2024-04-23,23.03,US
+DemoBrand,United States,2024-04-24,2024-04-24,24.88,US
+DemoBrand,United States,2024-04-25,2024-04-25,24.81,US
+DemoBrand,United States,2024-04-26,2024-04-26,28.35,US
+DemoBrand,United States,2024-04-27,2024-04-27,25.06,US
+DemoBrand,United States,2024-04-28,2024-04-28,23.9,US
+DemoBrand,United States,2024-04-29,2024-04-29,26.72,US
+DemoBrand,United States,2024-04-30,2024-04-30,27.22,US
+DemoBrand,United States,2024-05-01,2024-05-01,29.92,US
+DemoBrand,United States,2024-05-02,2024-05-02,29.28,US
+DemoBrand,United States,2024-05-03,2024-05-03,28.73,US
+DemoBrand,United States,2024-05-04,2024-05-04,31.34,US
+DemoBrand,United States,2024-05-05,2024-05-05,26.41,US
+DemoBrand,United States,2024-05-06,2024-05-06,27.86,US
+DemoBrand,United States,2024-05-07,2024-05-07,27.61,US
+DemoBrand,United States,2024-05-08,2024-05-08,28.98,US
+DemoBrand,United States,2024-05-09,2024-05-09,27.27,US
+DemoBrand,United States,2024-05-10,2024-05-10,31.53,US
+DemoBrand,United States,2024-05-11,2024-05-11,30.0,US
+DemoBrand,United States,2024-05-12,2024-05-12,27.66,US
+DemoBrand,United States,2024-05-13,2024-05-13,28.68,US
+DemoBrand,United States,2024-05-14,2024-05-14,31.4,US
+DemoBrand,United States,2024-05-15,2024-05-15,32.48,US
+DemoBrand,United States,2024-05-16,2024-05-16,34.77,US
+DemoBrand,United States,2024-05-17,2024-05-17,36.54,US
+DemoBrand,United States,2024-05-18,2024-05-18,31.44,US
+DemoBrand,United States,2024-05-19,2024-05-19,28.48,US
+DemoBrand,United States,2024-05-20,2024-05-20,26.01,US
+DemoBrand,United States,2024-05-21,2024-05-21,30.58,US
+DemoBrand,United States,2024-05-22,2024-05-22,28.16,US
+DemoBrand,United States,2024-05-23,2024-05-23,28.66,US
+DemoBrand,United States,2024-05-24,2024-05-24,27.94,US
+DemoBrand,United States,2024-05-25,2024-05-25,33.77,US
+DemoBrand,United States,2024-05-26,2024-05-26,35.08,US
+DemoBrand,United States,2024-05-27,2024-05-27,33.63,US
+DemoBrand,United States,2024-05-28,2024-05-28,31.1,US
+DemoBrand,United States,2024-05-29,2024-05-29,29.86,US
+DemoBrand,United States,2024-05-30,2024-05-30,28.46,US
+DemoBrand,United States,2024-05-31,2024-05-31,30.28,US
+DemoBrand,United States,2024-06-01,2024-06-01,31.38,US
+DemoBrand,United States,2024-06-02,2024-06-02,34.3,US
+DemoBrand,United States,2024-06-03,2024-06-03,30.87,US
+DemoBrand,United States,2024-06-04,2024-06-04,31.2,US
+DemoBrand,United States,2024-06-05,2024-06-05,29.06,US
+DemoBrand,United States,2024-06-06,2024-06-06,27.9,US
+DemoBrand,United States,2024-06-07,2024-06-07,26.13,US
+DemoBrand,United States,2024-06-08,2024-06-08,26.41,US
+DemoBrand,United States,2024-06-09,2024-06-09,33.53,US
+DemoBrand,United States,2024-06-10,2024-06-10,26.32,US
+DemoBrand,United States,2024-06-11,2024-06-11,30.66,US
+DemoBrand,United States,2024-06-12,2024-06-12,25.71,US
+DemoBrand,United States,2024-06-13,2024-06-13,30.72,US
+DemoBrand,United States,2024-06-14,2024-06-14,28.63,US
+DemoBrand,United States,2024-06-15,2024-06-15,27.66,US
+DemoBrand,United States,2024-06-16,2024-06-16,28.92,US
+DemoBrand,United States,2024-06-17,2024-06-17,26.38,US
+DemoBrand,United States,2024-06-18,2024-06-18,28.31,US
+DemoBrand,United States,2024-06-19,2024-06-19,27.06,US
+DemoBrand,United States,2024-06-20,2024-06-20,26.41,US
+DemoBrand,United States,2024-06-21,2024-06-21,25.09,US
+DemoBrand,United States,2024-06-22,2024-06-22,29.91,US
+DemoBrand,United States,2024-06-23,2024-06-23,32.18,US
+DemoBrand,United States,2024-06-24,2024-06-24,30.94,US
+DemoBrand,United States,2024-06-25,2024-06-25,28.14,US
+DemoBrand,United States,2024-06-26,2024-06-26,30.53,US
+DemoBrand,United States,2024-06-27,2024-06-27,32.31,US
+DemoBrand,United States,2024-06-28,2024-06-28,31.19,US
+DemoBrand,United States,2024-06-29,2024-06-29,31.14,US
+DemoBrand,United States,2024-06-30,2024-06-30,34.28,US
+DemoBrand,United States,2024-07-01,2024-07-01,33.28,US
+DemoBrand,United States,2024-07-02,2024-07-02,35.97,US
+DemoBrand,United States,2024-07-03,2024-07-03,33.93,US
+DemoBrand,United States,2024-07-04,2024-07-04,30.59,US
+DemoBrand,United States,2024-07-05,2024-07-05,31.92,US
+DemoBrand,United States,2024-07-06,2024-07-06,38.26,US
+DemoBrand,United States,2024-07-07,2024-07-07,38.49,US
+DemoBrand,United States,2024-07-08,2024-07-08,35.08,US
+DemoBrand,United States,2024-07-09,2024-07-09,34.71,US
+DemoBrand,United States,2024-07-10,2024-07-10,39.87,US
+DemoBrand,United States,2024-07-11,2024-07-11,33.32,US
+DemoBrand,United States,2024-07-12,2024-07-12,33.69,US
+DemoBrand,United States,2024-07-13,2024-07-13,36.51,US
+DemoBrand,United States,2024-07-14,2024-07-14,34.25,US
+DemoBrand,United States,2024-07-15,2024-07-15,34.85,US
+DemoBrand,United States,2024-07-16,2024-07-16,34.73,US
+DemoBrand,United States,2024-07-17,2024-07-17,36.23,US
+DemoBrand,United States,2024-07-18,2024-07-18,38.52,US
+DemoBrand,United States,2024-07-19,2024-07-19,35.49,US
+DemoBrand,United States,2024-07-20,2024-07-20,35.77,US
+DemoBrand,United States,2024-07-21,2024-07-21,31.35,US
+DemoBrand,United States,2024-07-22,2024-07-22,34.94,US
+DemoBrand,United States,2024-07-23,2024-07-23,32.36,US
+DemoBrand,United States,2024-07-24,2024-07-24,30.9,US
+DemoBrand,United States,2024-07-25,2024-07-25,32.09,US
+DemoBrand,United States,2024-07-26,2024-07-26,32.52,US
+DemoBrand,United States,2024-07-27,2024-07-27,33.41,US
+DemoBrand,United States,2024-07-28,2024-07-28,29.54,US
+DemoBrand,United States,2024-07-29,2024-07-29,32.08,US
+DemoBrand,United States,2024-07-30,2024-07-30,29.77,US
+DemoBrand,United States,2024-07-31,2024-07-31,30.48,US
+DemoBrand,United States,2024-08-01,2024-08-01,31.52,US
+DemoBrand,United States,2024-08-02,2024-08-02,32.26,US
+DemoBrand,United States,2024-08-03,2024-08-03,33.42,US
+DemoBrand,United States,2024-08-04,2024-08-04,28.98,US
+DemoBrand,United States,2024-08-05,2024-08-05,28.03,US
+DemoBrand,United States,2024-08-06,2024-08-06,26.64,US
+DemoBrand,United States,2024-08-07,2024-08-07,28.23,US
+DemoBrand,United States,2024-08-08,2024-08-08,28.51,US
+DemoBrand,United States,2024-08-09,2024-08-09,25.22,US
+DemoBrand,United States,2024-08-10,2024-08-10,28.74,US
+DemoBrand,United States,2024-08-11,2024-08-11,29.86,US
+DemoBrand,United States,2024-08-12,2024-08-12,32.03,US
+DemoBrand,United States,2024-08-13,2024-08-13,30.98,US
+DemoBrand,United States,2024-08-14,2024-08-14,26.33,US
+DemoBrand,United States,2024-08-15,2024-08-15,28.55,US
+DemoBrand,United States,2024-08-16,2024-08-16,24.21,US
+DemoBrand,United States,2024-08-17,2024-08-17,22.1,US
+DemoBrand,United States,2024-08-18,2024-08-18,24.1,US
+DemoBrand,United States,2024-08-19,2024-08-19,26.11,US
+DemoBrand,United States,2024-08-20,2024-08-20,22.51,US
+DemoBrand,United States,2024-08-21,2024-08-21,22.95,US
+DemoBrand,United States,2024-08-22,2024-08-22,20.29,US
+DemoBrand,United States,2024-08-23,2024-08-23,24.61,US
+DemoBrand,United States,2024-08-24,2024-08-24,23.19,US
+DemoBrand,United States,2024-08-25,2024-08-25,24.65,US
+DemoBrand,United States,2024-08-26,2024-08-26,24.36,US
+DemoBrand,United States,2024-08-27,2024-08-27,26.34,US
+DemoBrand,United States,2024-08-28,2024-08-28,23.43,US
+DemoBrand,United States,2024-08-29,2024-08-29,24.43,US
+DemoBrand,United States,2024-08-30,2024-08-30,32.04,US
+DemoBrand,United States,2024-08-31,2024-08-31,25.61,US
+DemoBrand,United States,2024-09-01,2024-09-01,26.39,US
+DemoBrand,United States,2024-09-02,2024-09-02,32.63,US
+DemoBrand,United States,2024-09-03,2024-09-03,35.12,US
+DemoBrand,United States,2024-09-04,2024-09-04,27.29,US
+DemoBrand,United States,2024-09-05,2024-09-05,29.19,US
+DemoBrand,United States,2024-09-06,2024-09-06,30.88,US
+DemoBrand,United States,2024-09-07,2024-09-07,33.88,US
+DemoBrand,United States,2024-09-08,2024-09-08,28.64,US
+DemoBrand,United States,2024-09-09,2024-09-09,30.28,US
+DemoBrand,United States,2024-09-10,2024-09-10,32.43,US
+DemoBrand,United States,2024-09-11,2024-09-11,31.81,US
+DemoBrand,United States,2024-09-12,2024-09-12,30.22,US
+DemoBrand,United States,2024-09-13,2024-09-13,30.68,US
+DemoBrand,United States,2024-09-14,2024-09-14,28.13,US
+DemoBrand,United States,2024-09-15,2024-09-15,30.3,US
+DemoBrand,United States,2024-09-16,2024-09-16,30.1,US
+DemoBrand,United States,2024-09-17,2024-09-17,30.9,US
+DemoBrand,United States,2024-09-18,2024-09-18,29.1,US
+DemoBrand,United States,2024-09-19,2024-09-19,30.89,US
+DemoBrand,United States,2024-09-20,2024-09-20,31.68,US
+DemoBrand,United States,2024-09-21,2024-09-21,29.64,US
+DemoBrand,United States,2024-09-22,2024-09-22,29.69,US
+DemoBrand,United States,2024-09-23,2024-09-23,28.72,US
+DemoBrand,United States,2024-09-24,2024-09-24,28.22,US
+DemoBrand,United States,2024-09-25,2024-09-25,26.38,US
+DemoBrand,United States,2024-09-26,2024-09-26,28.04,US
+DemoBrand,United States,2024-09-27,2024-09-27,26.79,US
+DemoBrand,United States,2024-09-28,2024-09-28,30.76,US
+DemoBrand,United States,2024-09-29,2024-09-29,29.31,US
+DemoBrand,United States,2024-09-30,2024-09-30,26.53,US
+DemoBrand,United States,2024-10-01,2024-10-01,23.84,US
+DemoBrand,United States,2024-10-02,2024-10-02,22.77,US
+DemoBrand,United States,2024-10-03,2024-10-03,27.03,US
+DemoBrand,United States,2024-10-04,2024-10-04,24.85,US
+DemoBrand,United States,2024-10-05,2024-10-05,24.99,US
+DemoBrand,United States,2024-10-06,2024-10-06,20.28,US
+DemoBrand,United States,2024-10-07,2024-10-07,25.39,US
+DemoBrand,United States,2024-10-08,2024-10-08,24.26,US
+DemoBrand,United States,2024-10-09,2024-10-09,20.98,US
+DemoBrand,United States,2024-10-10,2024-10-10,22.15,US
+DemoBrand,United States,2024-10-11,2024-10-11,23.56,US
+DemoBrand,United States,2024-10-12,2024-10-12,23.12,US
+DemoBrand,United States,2024-10-13,2024-10-13,22.45,US
+DemoBrand,United States,2024-10-14,2024-10-14,22.89,US
+DemoBrand,United States,2024-10-15,2024-10-15,22.71,US
+DemoBrand,United States,2024-10-16,2024-10-16,23.67,US
+DemoBrand,United States,2024-10-17,2024-10-17,26.5,US
+DemoBrand,United States,2024-10-18,2024-10-18,18.65,US
+DemoBrand,United States,2024-10-19,2024-10-19,23.57,US
+DemoBrand,United States,2024-10-20,2024-10-20,24.7,US
+DemoBrand,United States,2024-10-21,2024-10-21,25.26,US
+DemoBrand,United States,2024-10-22,2024-10-22,24.28,US
+DemoBrand,United States,2024-10-23,2024-10-23,21.89,US
+DemoBrand,United States,2024-10-24,2024-10-24,26.45,US
+DemoBrand,United States,2024-10-25,2024-10-25,29.65,US
+DemoBrand,United States,2024-10-26,2024-10-26,23.54,US
+DemoBrand,United States,2024-10-27,2024-10-27,28.76,US
+DemoBrand,United States,2024-10-28,2024-10-28,26.79,US
+DemoBrand,United States,2024-10-29,2024-10-29,27.74,US
+DemoBrand,United States,2024-10-30,2024-10-30,26.17,US
+DemoBrand,United States,2024-10-31,2024-10-31,28.0,US
+DemoBrand,United States,2024-11-01,2024-11-01,31.64,US
+DemoBrand,United States,2024-11-02,2024-11-02,30.56,US
+DemoBrand,United States,2024-11-03,2024-11-03,33.18,US
+DemoBrand,United States,2024-11-04,2024-11-04,32.37,US
+DemoBrand,United States,2024-11-05,2024-11-05,31.16,US
+DemoBrand,United States,2024-11-06,2024-11-06,34.0,US
+DemoBrand,United States,2024-11-07,2024-11-07,31.58,US
+DemoBrand,United States,2024-11-08,2024-11-08,32.51,US
+DemoBrand,United States,2024-11-09,2024-11-09,30.37,US
+DemoBrand,United States,2024-11-10,2024-11-10,31.16,US
+DemoBrand,United States,2024-11-11,2024-11-11,29.66,US
+DemoBrand,United States,2024-11-12,2024-11-12,33.01,US
+DemoBrand,United States,2024-11-13,2024-11-13,28.61,US
+DemoBrand,United States,2024-11-14,2024-11-14,32.43,US
+DemoBrand,United States,2024-11-15,2024-11-15,30.33,US
+DemoBrand,United States,2024-11-16,2024-11-16,32.87,US
+DemoBrand,United States,2024-11-17,2024-11-17,31.8,US
+DemoBrand,United States,2024-11-18,2024-11-18,33.68,US
+DemoBrand,United States,2024-11-19,2024-11-19,31.2,US
+DemoBrand,United States,2024-11-20,2024-11-20,26.27,US
+DemoBrand,United States,2024-11-21,2024-11-21,28.93,US
+DemoBrand,United States,2024-11-22,2024-11-22,26.35,US
+DemoBrand,United States,2024-11-23,2024-11-23,27.27,US
+DemoBrand,United States,2024-11-24,2024-11-24,30.93,US
+DemoBrand,United States,2024-11-25,2024-11-25,28.77,US
+DemoBrand,United States,2024-11-26,2024-11-26,25.68,US
+DemoBrand,United States,2024-11-27,2024-11-27,24.63,US
+DemoBrand,United States,2024-11-28,2024-11-28,26.31,US
+DemoBrand,United States,2024-11-29,2024-11-29,23.41,US
+DemoBrand,United States,2024-11-30,2024-11-30,24.11,US
+DemoBrand,United States,2024-12-01,2024-12-01,25.7,US
+DemoBrand,United States,2024-12-02,2024-12-02,27.04,US
+DemoBrand,United States,2024-12-03,2024-12-03,25.62,US
+DemoBrand,United States,2024-12-04,2024-12-04,19.53,US
+DemoBrand,United States,2024-12-05,2024-12-05,24.46,US
+DemoBrand,United States,2024-12-06,2024-12-06,23.77,US
+DemoBrand,United States,2024-12-07,2024-12-07,24.26,US
+DemoBrand,United States,2024-12-08,2024-12-08,26.52,US
+DemoBrand,United States,2024-12-09,2024-12-09,19.05,US
+DemoBrand,United States,2024-12-10,2024-12-10,21.93,US
+DemoBrand,United States,2024-12-11,2024-12-11,24.28,US
+DemoBrand,United States,2024-12-12,2024-12-12,19.96,US
+DemoBrand,United States,2024-12-13,2024-12-13,26.14,US
+DemoBrand,United States,2024-12-14,2024-12-14,24.03,US
+DemoBrand,United States,2024-12-15,2024-12-15,25.14,US
+DemoBrand,United States,2024-12-16,2024-12-16,22.5,US
+DemoBrand,United States,2024-12-17,2024-12-17,25.49,US
+DemoBrand,United States,2024-12-18,2024-12-18,26.27,US
+DemoBrand,United States,2024-12-19,2024-12-19,24.9,US
+DemoBrand,United States,2024-12-20,2024-12-20,25.23,US
+DemoBrand,United States,2024-12-21,2024-12-21,25.65,US
+DemoBrand,United States,2024-12-22,2024-12-22,23.76,US
+DemoBrand,United States,2024-12-23,2024-12-23,25.58,US
+DemoBrand,United States,2024-12-24,2024-12-24,25.98,US
+DemoBrand,United States,2024-12-25,2024-12-25,27.46,US
+DemoBrand,United States,2024-12-26,2024-12-26,29.12,US
+DemoBrand,United States,2024-12-27,2024-12-27,25.42,US
+DemoBrand,United States,2024-12-28,2024-12-28,27.7,US
+DemoBrand,United States,2024-12-29,2024-12-29,31.32,US
+DemoBrand,United Kingdom,2024-01-01,2024-01-01,17.39,GB
+DemoBrand,United Kingdom,2024-01-02,2024-01-02,19.06,GB
+DemoBrand,United Kingdom,2024-01-03,2024-01-03,19.54,GB
+DemoBrand,United Kingdom,2024-01-04,2024-01-04,15.11,GB
+DemoBrand,United Kingdom,2024-01-05,2024-01-05,14.25,GB
+DemoBrand,United Kingdom,2024-01-06,2024-01-06,21.14,GB
+DemoBrand,United Kingdom,2024-01-07,2024-01-07,21.87,GB
+DemoBrand,United Kingdom,2024-01-08,2024-01-08,17.79,GB
+DemoBrand,United Kingdom,2024-01-09,2024-01-09,16.42,GB
+DemoBrand,United Kingdom,2024-01-10,2024-01-10,20.62,GB
+DemoBrand,United Kingdom,2024-01-11,2024-01-11,22.52,GB
+DemoBrand,United Kingdom,2024-01-12,2024-01-12,24.45,GB
+DemoBrand,United Kingdom,2024-01-13,2024-01-13,22.05,GB
+DemoBrand,United Kingdom,2024-01-14,2024-01-14,20.4,GB
+DemoBrand,United Kingdom,2024-01-15,2024-01-15,19.43,GB
+DemoBrand,United Kingdom,2024-01-16,2024-01-16,21.28,GB
+DemoBrand,United Kingdom,2024-01-17,2024-01-17,20.64,GB
+DemoBrand,United Kingdom,2024-01-18,2024-01-18,19.16,GB
+DemoBrand,United Kingdom,2024-01-19,2024-01-19,25.19,GB
+DemoBrand,United Kingdom,2024-01-20,2024-01-20,24.53,GB
+DemoBrand,United Kingdom,2024-01-21,2024-01-21,23.05,GB
+DemoBrand,United Kingdom,2024-01-22,2024-01-22,18.72,GB
+DemoBrand,United Kingdom,2024-01-23,2024-01-23,22.02,GB
+DemoBrand,United Kingdom,2024-01-24,2024-01-24,21.3,GB
+DemoBrand,United Kingdom,2024-01-25,2024-01-25,20.6,GB
+DemoBrand,United Kingdom,2024-01-26,2024-01-26,21.87,GB
+DemoBrand,United Kingdom,2024-01-27,2024-01-27,20.28,GB
+DemoBrand,United Kingdom,2024-01-28,2024-01-28,20.11,GB
+DemoBrand,United Kingdom,2024-01-29,2024-01-29,19.51,GB
+DemoBrand,United Kingdom,2024-01-30,2024-01-30,18.52,GB
+DemoBrand,United Kingdom,2024-01-31,2024-01-31,13.87,GB
+DemoBrand,United Kingdom,2024-02-01,2024-02-01,17.19,GB
+DemoBrand,United Kingdom,2024-02-02,2024-02-02,15.51,GB
+DemoBrand,United Kingdom,2024-02-03,2024-02-03,13.67,GB
+DemoBrand,United Kingdom,2024-02-04,2024-02-04,19.22,GB
+DemoBrand,United Kingdom,2024-02-05,2024-02-05,18.95,GB
+DemoBrand,United Kingdom,2024-02-06,2024-02-06,17.87,GB
+DemoBrand,United Kingdom,2024-02-07,2024-02-07,15.35,GB
+DemoBrand,United Kingdom,2024-02-08,2024-02-08,17.26,GB
+DemoBrand,United Kingdom,2024-02-09,2024-02-09,14.33,GB
+DemoBrand,United Kingdom,2024-02-10,2024-02-10,14.49,GB
+DemoBrand,United Kingdom,2024-02-11,2024-02-11,11.72,GB
+DemoBrand,United Kingdom,2024-02-12,2024-02-12,14.57,GB
+DemoBrand,United Kingdom,2024-02-13,2024-02-13,13.8,GB
+DemoBrand,United Kingdom,2024-02-14,2024-02-14,11.02,GB
+DemoBrand,United Kingdom,2024-02-15,2024-02-15,13.51,GB
+DemoBrand,United Kingdom,2024-02-16,2024-02-16,13.49,GB
+DemoBrand,United Kingdom,2024-02-17,2024-02-17,17.32,GB
+DemoBrand,United Kingdom,2024-02-18,2024-02-18,15.63,GB
+DemoBrand,United Kingdom,2024-02-19,2024-02-19,14.03,GB
+DemoBrand,United Kingdom,2024-02-20,2024-02-20,14.71,GB
+DemoBrand,United Kingdom,2024-02-21,2024-02-21,14.54,GB
+DemoBrand,United Kingdom,2024-02-22,2024-02-22,14.32,GB
+DemoBrand,United Kingdom,2024-02-23,2024-02-23,12.87,GB
+DemoBrand,United Kingdom,2024-02-24,2024-02-24,15.07,GB
+DemoBrand,United Kingdom,2024-02-25,2024-02-25,14.24,GB
+DemoBrand,United Kingdom,2024-02-26,2024-02-26,13.62,GB
+DemoBrand,United Kingdom,2024-02-27,2024-02-27,17.54,GB
+DemoBrand,United Kingdom,2024-02-28,2024-02-28,17.72,GB
+DemoBrand,United Kingdom,2024-02-29,2024-02-29,13.79,GB
+DemoBrand,United Kingdom,2024-03-01,2024-03-01,17.55,GB
+DemoBrand,United Kingdom,2024-03-02,2024-03-02,20.21,GB
+DemoBrand,United Kingdom,2024-03-03,2024-03-03,20.77,GB
+DemoBrand,United Kingdom,2024-03-04,2024-03-04,21.12,GB
+DemoBrand,United Kingdom,2024-03-05,2024-03-05,19.54,GB
+DemoBrand,United Kingdom,2024-03-06,2024-03-06,18.16,GB
+DemoBrand,United Kingdom,2024-03-07,2024-03-07,18.05,GB
+DemoBrand,United Kingdom,2024-03-08,2024-03-08,21.24,GB
+DemoBrand,United Kingdom,2024-03-09,2024-03-09,21.62,GB
+DemoBrand,United Kingdom,2024-03-10,2024-03-10,23.71,GB
+DemoBrand,United Kingdom,2024-03-11,2024-03-11,23.58,GB
+DemoBrand,United Kingdom,2024-03-12,2024-03-12,21.31,GB
+DemoBrand,United Kingdom,2024-03-13,2024-03-13,19.25,GB
+DemoBrand,United Kingdom,2024-03-14,2024-03-14,21.22,GB
+DemoBrand,United Kingdom,2024-03-15,2024-03-15,22.37,GB
+DemoBrand,United Kingdom,2024-03-16,2024-03-16,21.57,GB
+DemoBrand,United Kingdom,2024-03-17,2024-03-17,20.81,GB
+DemoBrand,United Kingdom,2024-03-18,2024-03-18,22.41,GB
+DemoBrand,United Kingdom,2024-03-19,2024-03-19,20.8,GB
+DemoBrand,United Kingdom,2024-03-20,2024-03-20,20.42,GB
+DemoBrand,United Kingdom,2024-03-21,2024-03-21,22.12,GB
+DemoBrand,United Kingdom,2024-03-22,2024-03-22,20.48,GB
+DemoBrand,United Kingdom,2024-03-23,2024-03-23,21.52,GB
+DemoBrand,United Kingdom,2024-03-24,2024-03-24,21.29,GB
+DemoBrand,United Kingdom,2024-03-25,2024-03-25,18.15,GB
+DemoBrand,United Kingdom,2024-03-26,2024-03-26,19.13,GB
+DemoBrand,United Kingdom,2024-03-27,2024-03-27,22.61,GB
+DemoBrand,United Kingdom,2024-03-28,2024-03-28,17.03,GB
+DemoBrand,United Kingdom,2024-03-29,2024-03-29,14.73,GB
+DemoBrand,United Kingdom,2024-03-30,2024-03-30,14.83,GB
+DemoBrand,United Kingdom,2024-03-31,2024-03-31,18.21,GB
+DemoBrand,United Kingdom,2024-04-01,2024-04-01,17.81,GB
+DemoBrand,United Kingdom,2024-04-02,2024-04-02,17.11,GB
+DemoBrand,United Kingdom,2024-04-03,2024-04-03,19.38,GB
+DemoBrand,United Kingdom,2024-04-04,2024-04-04,11.23,GB
+DemoBrand,United Kingdom,2024-04-05,2024-04-05,17.0,GB
+DemoBrand,United Kingdom,2024-04-06,2024-04-06,19.0,GB
+DemoBrand,United Kingdom,2024-04-07,2024-04-07,13.3,GB
+DemoBrand,United Kingdom,2024-04-08,2024-04-08,14.52,GB
+DemoBrand,United Kingdom,2024-04-09,2024-04-09,13.52,GB
+DemoBrand,United Kingdom,2024-04-10,2024-04-10,13.02,GB
+DemoBrand,United Kingdom,2024-04-11,2024-04-11,13.98,GB
+DemoBrand,United Kingdom,2024-04-12,2024-04-12,17.35,GB
+DemoBrand,United Kingdom,2024-04-13,2024-04-13,18.07,GB
+DemoBrand,United Kingdom,2024-04-14,2024-04-14,13.67,GB
+DemoBrand,United Kingdom,2024-04-15,2024-04-15,18.14,GB
+DemoBrand,United Kingdom,2024-04-16,2024-04-16,14.44,GB
+DemoBrand,United Kingdom,2024-04-17,2024-04-17,17.95,GB
+DemoBrand,United Kingdom,2024-04-18,2024-04-18,14.38,GB
+DemoBrand,United Kingdom,2024-04-19,2024-04-19,14.99,GB
+DemoBrand,United Kingdom,2024-04-20,2024-04-20,15.66,GB
+DemoBrand,United Kingdom,2024-04-21,2024-04-21,21.53,GB
+DemoBrand,United Kingdom,2024-04-22,2024-04-22,17.15,GB
+DemoBrand,United Kingdom,2024-04-23,2024-04-23,14.34,GB
+DemoBrand,United Kingdom,2024-04-24,2024-04-24,18.03,GB
+DemoBrand,United Kingdom,2024-04-25,2024-04-25,15.73,GB
+DemoBrand,United Kingdom,2024-04-26,2024-04-26,15.86,GB
+DemoBrand,United Kingdom,2024-04-27,2024-04-27,19.06,GB
+DemoBrand,United Kingdom,2024-04-28,2024-04-28,17.72,GB
+DemoBrand,United Kingdom,2024-04-29,2024-04-29,18.64,GB
+DemoBrand,United Kingdom,2024-04-30,2024-04-30,18.54,GB
+DemoBrand,United Kingdom,2024-05-01,2024-05-01,19.61,GB
+DemoBrand,United Kingdom,2024-05-02,2024-05-02,20.22,GB
+DemoBrand,United Kingdom,2024-05-03,2024-05-03,15.91,GB
+DemoBrand,United Kingdom,2024-05-04,2024-05-04,21.52,GB
+DemoBrand,United Kingdom,2024-05-05,2024-05-05,18.61,GB
+DemoBrand,United Kingdom,2024-05-06,2024-05-06,18.05,GB
+DemoBrand,United Kingdom,2024-05-07,2024-05-07,21.15,GB
+DemoBrand,United Kingdom,2024-05-08,2024-05-08,21.75,GB
+DemoBrand,United Kingdom,2024-05-09,2024-05-09,20.47,GB
+DemoBrand,United Kingdom,2024-05-10,2024-05-10,23.76,GB
+DemoBrand,United Kingdom,2024-05-11,2024-05-11,19.61,GB
+DemoBrand,United Kingdom,2024-05-12,2024-05-12,21.65,GB
+DemoBrand,United Kingdom,2024-05-13,2024-05-13,21.41,GB
+DemoBrand,United Kingdom,2024-05-14,2024-05-14,22.56,GB
+DemoBrand,United Kingdom,2024-05-15,2024-05-15,23.25,GB
+DemoBrand,United Kingdom,2024-05-16,2024-05-16,20.67,GB
+DemoBrand,United Kingdom,2024-05-17,2024-05-17,24.08,GB
+DemoBrand,United Kingdom,2024-05-18,2024-05-18,22.66,GB
+DemoBrand,United Kingdom,2024-05-19,2024-05-19,18.61,GB
+DemoBrand,United Kingdom,2024-05-20,2024-05-20,18.3,GB
+DemoBrand,United Kingdom,2024-05-21,2024-05-21,21.97,GB
+DemoBrand,United Kingdom,2024-05-22,2024-05-22,21.31,GB
+DemoBrand,United Kingdom,2024-05-23,2024-05-23,21.26,GB
+DemoBrand,United Kingdom,2024-05-24,2024-05-24,21.09,GB
+DemoBrand,United Kingdom,2024-05-25,2024-05-25,29.11,GB
+DemoBrand,United Kingdom,2024-05-26,2024-05-26,27.94,GB
+DemoBrand,United Kingdom,2024-05-27,2024-05-27,26.09,GB
+DemoBrand,United Kingdom,2024-05-28,2024-05-28,23.39,GB
+DemoBrand,United Kingdom,2024-05-29,2024-05-29,24.71,GB
+DemoBrand,United Kingdom,2024-05-30,2024-05-30,26.1,GB
+DemoBrand,United Kingdom,2024-05-31,2024-05-31,27.13,GB
+DemoBrand,United Kingdom,2024-06-01,2024-06-01,22.0,GB
+DemoBrand,United Kingdom,2024-06-02,2024-06-02,19.08,GB
+DemoBrand,United Kingdom,2024-06-03,2024-06-03,18.93,GB
+DemoBrand,United Kingdom,2024-06-04,2024-06-04,22.8,GB
+DemoBrand,United Kingdom,2024-06-05,2024-06-05,23.56,GB
+DemoBrand,United Kingdom,2024-06-06,2024-06-06,21.26,GB
+DemoBrand,United Kingdom,2024-06-07,2024-06-07,22.95,GB
+DemoBrand,United Kingdom,2024-06-08,2024-06-08,20.99,GB
+DemoBrand,United Kingdom,2024-06-09,2024-06-09,23.59,GB
+DemoBrand,United Kingdom,2024-06-10,2024-06-10,21.34,GB
+DemoBrand,United Kingdom,2024-06-11,2024-06-11,20.03,GB
+DemoBrand,United Kingdom,2024-06-12,2024-06-12,24.37,GB
+DemoBrand,United Kingdom,2024-06-13,2024-06-13,18.1,GB
+DemoBrand,United Kingdom,2024-06-14,2024-06-14,23.4,GB
+DemoBrand,United Kingdom,2024-06-15,2024-06-15,21.97,GB
+DemoBrand,United Kingdom,2024-06-16,2024-06-16,22.24,GB
+DemoBrand,United Kingdom,2024-06-17,2024-06-17,24.6,GB
+DemoBrand,United Kingdom,2024-06-18,2024-06-18,20.73,GB
+DemoBrand,United Kingdom,2024-06-19,2024-06-19,26.24,GB
+DemoBrand,United Kingdom,2024-06-20,2024-06-20,21.19,GB
+DemoBrand,United Kingdom,2024-06-21,2024-06-21,20.85,GB
+DemoBrand,United Kingdom,2024-06-22,2024-06-22,23.84,GB
+DemoBrand,United Kingdom,2024-06-23,2024-06-23,21.82,GB
+DemoBrand,United Kingdom,2024-06-24,2024-06-24,23.77,GB
+DemoBrand,United Kingdom,2024-06-25,2024-06-25,26.36,GB
+DemoBrand,United Kingdom,2024-06-26,2024-06-26,25.28,GB
+DemoBrand,United Kingdom,2024-06-27,2024-06-27,24.08,GB
+DemoBrand,United Kingdom,2024-06-28,2024-06-28,26.74,GB
+DemoBrand,United Kingdom,2024-06-29,2024-06-29,28.15,GB
+DemoBrand,United Kingdom,2024-06-30,2024-06-30,28.52,GB
+DemoBrand,United Kingdom,2024-07-01,2024-07-01,29.33,GB
+DemoBrand,United Kingdom,2024-07-02,2024-07-02,30.17,GB
+DemoBrand,United Kingdom,2024-07-03,2024-07-03,23.51,GB
+DemoBrand,United Kingdom,2024-07-04,2024-07-04,28.42,GB
+DemoBrand,United Kingdom,2024-07-05,2024-07-05,24.36,GB
+DemoBrand,United Kingdom,2024-07-06,2024-07-06,26.82,GB
+DemoBrand,United Kingdom,2024-07-07,2024-07-07,28.53,GB
+DemoBrand,United Kingdom,2024-07-08,2024-07-08,28.89,GB
+DemoBrand,United Kingdom,2024-07-09,2024-07-09,33.41,GB
+DemoBrand,United Kingdom,2024-07-10,2024-07-10,27.95,GB
+DemoBrand,United Kingdom,2024-07-11,2024-07-11,30.57,GB
+DemoBrand,United Kingdom,2024-07-12,2024-07-12,31.4,GB
+DemoBrand,United Kingdom,2024-07-13,2024-07-13,30.92,GB
+DemoBrand,United Kingdom,2024-07-14,2024-07-14,30.17,GB
+DemoBrand,United Kingdom,2024-07-15,2024-07-15,30.45,GB
+DemoBrand,United Kingdom,2024-07-16,2024-07-16,31.87,GB
+DemoBrand,United Kingdom,2024-07-17,2024-07-17,31.03,GB
+DemoBrand,United Kingdom,2024-07-18,2024-07-18,30.57,GB
+DemoBrand,United Kingdom,2024-07-19,2024-07-19,31.53,GB
+DemoBrand,United Kingdom,2024-07-20,2024-07-20,25.44,GB
+DemoBrand,United Kingdom,2024-07-21,2024-07-21,28.22,GB
+DemoBrand,United Kingdom,2024-07-22,2024-07-22,29.5,GB
+DemoBrand,United Kingdom,2024-07-23,2024-07-23,29.23,GB
+DemoBrand,United Kingdom,2024-07-24,2024-07-24,28.59,GB
+DemoBrand,United Kingdom,2024-07-25,2024-07-25,27.47,GB
+DemoBrand,United Kingdom,2024-07-26,2024-07-26,28.96,GB
+DemoBrand,United Kingdom,2024-07-27,2024-07-27,30.13,GB
+DemoBrand,United Kingdom,2024-07-28,2024-07-28,26.91,GB
+DemoBrand,United Kingdom,2024-07-29,2024-07-29,23.01,GB
+DemoBrand,United Kingdom,2024-07-30,2024-07-30,25.45,GB
+DemoBrand,United Kingdom,2024-07-31,2024-07-31,20.72,GB
+DemoBrand,United Kingdom,2024-08-01,2024-08-01,23.0,GB
+DemoBrand,United Kingdom,2024-08-02,2024-08-02,16.95,GB
+DemoBrand,United Kingdom,2024-08-03,2024-08-03,19.62,GB
+DemoBrand,United Kingdom,2024-08-04,2024-08-04,25.59,GB
+DemoBrand,United Kingdom,2024-08-05,2024-08-05,23.87,GB
+DemoBrand,United Kingdom,2024-08-06,2024-08-06,21.37,GB
+DemoBrand,United Kingdom,2024-08-07,2024-08-07,22.18,GB
+DemoBrand,United Kingdom,2024-08-08,2024-08-08,27.38,GB
+DemoBrand,United Kingdom,2024-08-09,2024-08-09,21.48,GB
+DemoBrand,United Kingdom,2024-08-10,2024-08-10,27.37,GB
+DemoBrand,United Kingdom,2024-08-11,2024-08-11,20.95,GB
+DemoBrand,United Kingdom,2024-08-12,2024-08-12,24.35,GB
+DemoBrand,United Kingdom,2024-08-13,2024-08-13,24.84,GB
+DemoBrand,United Kingdom,2024-08-14,2024-08-14,22.1,GB
+DemoBrand,United Kingdom,2024-08-15,2024-08-15,20.44,GB
+DemoBrand,United Kingdom,2024-08-16,2024-08-16,20.82,GB
+DemoBrand,United Kingdom,2024-08-17,2024-08-17,16.09,GB
+DemoBrand,United Kingdom,2024-08-18,2024-08-18,13.64,GB
+DemoBrand,United Kingdom,2024-08-19,2024-08-19,16.09,GB
+DemoBrand,United Kingdom,2024-08-20,2024-08-20,15.4,GB
+DemoBrand,United Kingdom,2024-08-21,2024-08-21,19.04,GB
+DemoBrand,United Kingdom,2024-08-22,2024-08-22,17.6,GB
+DemoBrand,United Kingdom,2024-08-23,2024-08-23,17.32,GB
+DemoBrand,United Kingdom,2024-08-24,2024-08-24,18.06,GB
+DemoBrand,United Kingdom,2024-08-25,2024-08-25,19.12,GB
+DemoBrand,United Kingdom,2024-08-26,2024-08-26,20.33,GB
+DemoBrand,United Kingdom,2024-08-27,2024-08-27,17.52,GB
+DemoBrand,United Kingdom,2024-08-28,2024-08-28,17.87,GB
+DemoBrand,United Kingdom,2024-08-29,2024-08-29,22.59,GB
+DemoBrand,United Kingdom,2024-08-30,2024-08-30,19.98,GB
+DemoBrand,United Kingdom,2024-08-31,2024-08-31,18.39,GB
+DemoBrand,United Kingdom,2024-09-01,2024-09-01,22.51,GB
+DemoBrand,United Kingdom,2024-09-02,2024-09-02,22.94,GB
+DemoBrand,United Kingdom,2024-09-03,2024-09-03,19.31,GB
+DemoBrand,United Kingdom,2024-09-04,2024-09-04,23.17,GB
+DemoBrand,United Kingdom,2024-09-05,2024-09-05,24.49,GB
+DemoBrand,United Kingdom,2024-09-06,2024-09-06,24.04,GB
+DemoBrand,United Kingdom,2024-09-07,2024-09-07,24.8,GB
+DemoBrand,United Kingdom,2024-09-08,2024-09-08,20.93,GB
+DemoBrand,United Kingdom,2024-09-09,2024-09-09,24.56,GB
+DemoBrand,United Kingdom,2024-09-10,2024-09-10,23.41,GB
+DemoBrand,United Kingdom,2024-09-11,2024-09-11,23.13,GB
+DemoBrand,United Kingdom,2024-09-12,2024-09-12,25.87,GB
+DemoBrand,United Kingdom,2024-09-13,2024-09-13,27.08,GB
+DemoBrand,United Kingdom,2024-09-14,2024-09-14,27.65,GB
+DemoBrand,United Kingdom,2024-09-15,2024-09-15,26.6,GB
+DemoBrand,United Kingdom,2024-09-16,2024-09-16,23.61,GB
+DemoBrand,United Kingdom,2024-09-17,2024-09-17,24.36,GB
+DemoBrand,United Kingdom,2024-09-18,2024-09-18,24.97,GB
+DemoBrand,United Kingdom,2024-09-19,2024-09-19,23.43,GB
+DemoBrand,United Kingdom,2024-09-20,2024-09-20,23.16,GB
+DemoBrand,United Kingdom,2024-09-21,2024-09-21,24.24,GB
+DemoBrand,United Kingdom,2024-09-22,2024-09-22,22.13,GB
+DemoBrand,United Kingdom,2024-09-23,2024-09-23,20.43,GB
+DemoBrand,United Kingdom,2024-09-24,2024-09-24,20.68,GB
+DemoBrand,United Kingdom,2024-09-25,2024-09-25,22.38,GB
+DemoBrand,United Kingdom,2024-09-26,2024-09-26,20.72,GB
+DemoBrand,United Kingdom,2024-09-27,2024-09-27,20.99,GB
+DemoBrand,United Kingdom,2024-09-28,2024-09-28,21.24,GB
+DemoBrand,United Kingdom,2024-09-29,2024-09-29,18.75,GB
+DemoBrand,United Kingdom,2024-09-30,2024-09-30,20.62,GB
+DemoBrand,United Kingdom,2024-10-01,2024-10-01,19.49,GB
+DemoBrand,United Kingdom,2024-10-02,2024-10-02,15.9,GB
+DemoBrand,United Kingdom,2024-10-03,2024-10-03,20.91,GB
+DemoBrand,United Kingdom,2024-10-04,2024-10-04,16.71,GB
+DemoBrand,United Kingdom,2024-10-05,2024-10-05,14.12,GB
+DemoBrand,United Kingdom,2024-10-06,2024-10-06,15.09,GB
+DemoBrand,United Kingdom,2024-10-07,2024-10-07,14.92,GB
+DemoBrand,United Kingdom,2024-10-08,2024-10-08,16.89,GB
+DemoBrand,United Kingdom,2024-10-09,2024-10-09,16.1,GB
+DemoBrand,United Kingdom,2024-10-10,2024-10-10,15.88,GB
+DemoBrand,United Kingdom,2024-10-11,2024-10-11,17.74,GB
+DemoBrand,United Kingdom,2024-10-12,2024-10-12,17.17,GB
+DemoBrand,United Kingdom,2024-10-13,2024-10-13,17.15,GB
+DemoBrand,United Kingdom,2024-10-14,2024-10-14,17.42,GB
+DemoBrand,United Kingdom,2024-10-15,2024-10-15,17.95,GB
+DemoBrand,United Kingdom,2024-10-16,2024-10-16,12.67,GB
+DemoBrand,United Kingdom,2024-10-17,2024-10-17,16.36,GB
+DemoBrand,United Kingdom,2024-10-18,2024-10-18,12.96,GB
+DemoBrand,United Kingdom,2024-10-19,2024-10-19,17.67,GB
+DemoBrand,United Kingdom,2024-10-20,2024-10-20,17.9,GB
+DemoBrand,United Kingdom,2024-10-21,2024-10-21,20.34,GB
+DemoBrand,United Kingdom,2024-10-22,2024-10-22,20.98,GB
+DemoBrand,United Kingdom,2024-10-23,2024-10-23,19.4,GB
+DemoBrand,United Kingdom,2024-10-24,2024-10-24,18.4,GB
+DemoBrand,United Kingdom,2024-10-25,2024-10-25,20.78,GB
+DemoBrand,United Kingdom,2024-10-26,2024-10-26,19.18,GB
+DemoBrand,United Kingdom,2024-10-27,2024-10-27,20.67,GB
+DemoBrand,United Kingdom,2024-10-28,2024-10-28,23.07,GB
+DemoBrand,United Kingdom,2024-10-29,2024-10-29,20.41,GB
+DemoBrand,United Kingdom,2024-10-30,2024-10-30,23.55,GB
+DemoBrand,United Kingdom,2024-10-31,2024-10-31,23.7,GB
+DemoBrand,United Kingdom,2024-11-01,2024-11-01,20.82,GB
+DemoBrand,United Kingdom,2024-11-02,2024-11-02,25.04,GB
+DemoBrand,United Kingdom,2024-11-03,2024-11-03,24.83,GB
+DemoBrand,United Kingdom,2024-11-04,2024-11-04,23.94,GB
+DemoBrand,United Kingdom,2024-11-05,2024-11-05,22.49,GB
+DemoBrand,United Kingdom,2024-11-06,2024-11-06,22.53,GB
+DemoBrand,United Kingdom,2024-11-07,2024-11-07,23.38,GB
+DemoBrand,United Kingdom,2024-11-08,2024-11-08,25.7,GB
+DemoBrand,United Kingdom,2024-11-09,2024-11-09,22.83,GB
+DemoBrand,United Kingdom,2024-11-10,2024-11-10,25.69,GB
+DemoBrand,United Kingdom,2024-11-11,2024-11-11,22.36,GB
+DemoBrand,United Kingdom,2024-11-12,2024-11-12,24.43,GB
+DemoBrand,United Kingdom,2024-11-13,2024-11-13,25.0,GB
+DemoBrand,United Kingdom,2024-11-14,2024-11-14,29.58,GB
+DemoBrand,United Kingdom,2024-11-15,2024-11-15,21.8,GB
+DemoBrand,United Kingdom,2024-11-16,2024-11-16,27.32,GB
+DemoBrand,United Kingdom,2024-11-17,2024-11-17,24.46,GB
+DemoBrand,United Kingdom,2024-11-18,2024-11-18,24.73,GB
+DemoBrand,United Kingdom,2024-11-19,2024-11-19,23.86,GB
+DemoBrand,United Kingdom,2024-11-20,2024-11-20,24.2,GB
+DemoBrand,United Kingdom,2024-11-21,2024-11-21,22.66,GB
+DemoBrand,United Kingdom,2024-11-22,2024-11-22,25.52,GB
+DemoBrand,United Kingdom,2024-11-23,2024-11-23,21.32,GB
+DemoBrand,United Kingdom,2024-11-24,2024-11-24,24.1,GB
+DemoBrand,United Kingdom,2024-11-25,2024-11-25,20.15,GB
+DemoBrand,United Kingdom,2024-11-26,2024-11-26,20.91,GB
+DemoBrand,United Kingdom,2024-11-27,2024-11-27,18.48,GB
+DemoBrand,United Kingdom,2024-11-28,2024-11-28,21.13,GB
+DemoBrand,United Kingdom,2024-11-29,2024-11-29,22.72,GB
+DemoBrand,United Kingdom,2024-11-30,2024-11-30,19.29,GB
+DemoBrand,United Kingdom,2024-12-01,2024-12-01,18.69,GB
+DemoBrand,United Kingdom,2024-12-02,2024-12-02,16.52,GB
+DemoBrand,United Kingdom,2024-12-03,2024-12-03,17.98,GB
+DemoBrand,United Kingdom,2024-12-04,2024-12-04,14.97,GB
+DemoBrand,United Kingdom,2024-12-05,2024-12-05,16.07,GB
+DemoBrand,United Kingdom,2024-12-06,2024-12-06,18.14,GB
+DemoBrand,United Kingdom,2024-12-07,2024-12-07,20.14,GB
+DemoBrand,United Kingdom,2024-12-08,2024-12-08,22.99,GB
+DemoBrand,United Kingdom,2024-12-09,2024-12-09,16.1,GB
+DemoBrand,United Kingdom,2024-12-10,2024-12-10,20.09,GB
+DemoBrand,United Kingdom,2024-12-11,2024-12-11,17.7,GB
+DemoBrand,United Kingdom,2024-12-12,2024-12-12,16.94,GB
+DemoBrand,United Kingdom,2024-12-13,2024-12-13,18.18,GB
+DemoBrand,United Kingdom,2024-12-14,2024-12-14,17.56,GB
+DemoBrand,United Kingdom,2024-12-15,2024-12-15,17.82,GB
+DemoBrand,United Kingdom,2024-12-16,2024-12-16,16.99,GB
+DemoBrand,United Kingdom,2024-12-17,2024-12-17,15.25,GB
+DemoBrand,United Kingdom,2024-12-18,2024-12-18,15.23,GB
+DemoBrand,United Kingdom,2024-12-19,2024-12-19,19.93,GB
+DemoBrand,United Kingdom,2024-12-20,2024-12-20,18.41,GB
+DemoBrand,United Kingdom,2024-12-21,2024-12-21,18.14,GB
+DemoBrand,United Kingdom,2024-12-22,2024-12-22,19.73,GB
+DemoBrand,United Kingdom,2024-12-23,2024-12-23,21.71,GB
+DemoBrand,United Kingdom,2024-12-24,2024-12-24,20.89,GB
+DemoBrand,United Kingdom,2024-12-25,2024-12-25,19.65,GB
+DemoBrand,United Kingdom,2024-12-26,2024-12-26,23.84,GB
+DemoBrand,United Kingdom,2024-12-27,2024-12-27,24.98,GB
+DemoBrand,United Kingdom,2024-12-28,2024-12-28,23.23,GB
+DemoBrand,United Kingdom,2024-12-29,2024-12-29,24.61,GB
+DemoBrand,Germany,2024-01-01,2024-01-01,19.87,DE
+DemoBrand,Germany,2024-01-02,2024-01-02,20.16,DE
+DemoBrand,Germany,2024-01-03,2024-01-03,19.9,DE
+DemoBrand,Germany,2024-01-04,2024-01-04,24.07,DE
+DemoBrand,Germany,2024-01-05,2024-01-05,26.5,DE
+DemoBrand,Germany,2024-01-06,2024-01-06,24.6,DE
+DemoBrand,Germany,2024-01-07,2024-01-07,20.46,DE
+DemoBrand,Germany,2024-01-08,2024-01-08,24.94,DE
+DemoBrand,Germany,2024-01-09,2024-01-09,25.3,DE
+DemoBrand,Germany,2024-01-10,2024-01-10,30.09,DE
+DemoBrand,Germany,2024-01-11,2024-01-11,23.22,DE
+DemoBrand,Germany,2024-01-12,2024-01-12,25.55,DE
+DemoBrand,Germany,2024-01-13,2024-01-13,29.9,DE
+DemoBrand,Germany,2024-01-14,2024-01-14,27.5,DE
+DemoBrand,Germany,2024-01-15,2024-01-15,27.8,DE
+DemoBrand,Germany,2024-01-16,2024-01-16,26.94,DE
+DemoBrand,Germany,2024-01-17,2024-01-17,27.35,DE
+DemoBrand,Germany,2024-01-18,2024-01-18,28.19,DE
+DemoBrand,Germany,2024-01-19,2024-01-19,24.92,DE
+DemoBrand,Germany,2024-01-20,2024-01-20,28.15,DE
+DemoBrand,Germany,2024-01-21,2024-01-21,23.46,DE
+DemoBrand,Germany,2024-01-22,2024-01-22,26.65,DE
+DemoBrand,Germany,2024-01-23,2024-01-23,26.09,DE
+DemoBrand,Germany,2024-01-24,2024-01-24,24.21,DE
+DemoBrand,Germany,2024-01-25,2024-01-25,25.08,DE
+DemoBrand,Germany,2024-01-26,2024-01-26,23.54,DE
+DemoBrand,Germany,2024-01-27,2024-01-27,22.28,DE
+DemoBrand,Germany,2024-01-28,2024-01-28,23.33,DE
+DemoBrand,Germany,2024-01-29,2024-01-29,21.43,DE
+DemoBrand,Germany,2024-01-30,2024-01-30,23.88,DE
+DemoBrand,Germany,2024-01-31,2024-01-31,20.53,DE
+DemoBrand,Germany,2024-02-01,2024-02-01,23.84,DE
+DemoBrand,Germany,2024-02-02,2024-02-02,19.65,DE
+DemoBrand,Germany,2024-02-03,2024-02-03,20.48,DE
+DemoBrand,Germany,2024-02-04,2024-02-04,19.98,DE
+DemoBrand,Germany,2024-02-05,2024-02-05,23.52,DE
+DemoBrand,Germany,2024-02-06,2024-02-06,21.18,DE
+DemoBrand,Germany,2024-02-07,2024-02-07,19.78,DE
+DemoBrand,Germany,2024-02-08,2024-02-08,20.91,DE
+DemoBrand,Germany,2024-02-09,2024-02-09,15.45,DE
+DemoBrand,Germany,2024-02-10,2024-02-10,19.35,DE
+DemoBrand,Germany,2024-02-11,2024-02-11,23.25,DE
+DemoBrand,Germany,2024-02-12,2024-02-12,19.38,DE
+DemoBrand,Germany,2024-02-13,2024-02-13,19.15,DE
+DemoBrand,Germany,2024-02-14,2024-02-14,20.06,DE
+DemoBrand,Germany,2024-02-15,2024-02-15,20.74,DE
+DemoBrand,Germany,2024-02-16,2024-02-16,14.98,DE
+DemoBrand,Germany,2024-02-17,2024-02-17,15.68,DE
+DemoBrand,Germany,2024-02-18,2024-02-18,19.59,DE
+DemoBrand,Germany,2024-02-19,2024-02-19,17.89,DE
+DemoBrand,Germany,2024-02-20,2024-02-20,22.14,DE
+DemoBrand,Germany,2024-02-21,2024-02-21,19.13,DE
+DemoBrand,Germany,2024-02-22,2024-02-22,16.16,DE
+DemoBrand,Germany,2024-02-23,2024-02-23,17.8,DE
+DemoBrand,Germany,2024-02-24,2024-02-24,15.17,DE
+DemoBrand,Germany,2024-02-25,2024-02-25,20.56,DE
+DemoBrand,Germany,2024-02-26,2024-02-26,21.03,DE
+DemoBrand,Germany,2024-02-27,2024-02-27,20.96,DE
+DemoBrand,Germany,2024-02-28,2024-02-28,24.37,DE
+DemoBrand,Germany,2024-02-29,2024-02-29,25.04,DE
+DemoBrand,Germany,2024-03-01,2024-03-01,22.72,DE
+DemoBrand,Germany,2024-03-02,2024-03-02,19.22,DE
+DemoBrand,Germany,2024-03-03,2024-03-03,25.15,DE
+DemoBrand,Germany,2024-03-04,2024-03-04,25.44,DE
+DemoBrand,Germany,2024-03-05,2024-03-05,25.34,DE
+DemoBrand,Germany,2024-03-06,2024-03-06,27.07,DE
+DemoBrand,Germany,2024-03-07,2024-03-07,23.13,DE
+DemoBrand,Germany,2024-03-08,2024-03-08,29.81,DE
+DemoBrand,Germany,2024-03-09,2024-03-09,24.18,DE
+DemoBrand,Germany,2024-03-10,2024-03-10,27.87,DE
+DemoBrand,Germany,2024-03-11,2024-03-11,23.23,DE
+DemoBrand,Germany,2024-03-12,2024-03-12,24.95,DE
+DemoBrand,Germany,2024-03-13,2024-03-13,30.0,DE
+DemoBrand,Germany,2024-03-14,2024-03-14,26.56,DE
+DemoBrand,Germany,2024-03-15,2024-03-15,28.83,DE
+DemoBrand,Germany,2024-03-16,2024-03-16,27.66,DE
+DemoBrand,Germany,2024-03-17,2024-03-17,26.96,DE
+DemoBrand,Germany,2024-03-18,2024-03-18,29.84,DE
+DemoBrand,Germany,2024-03-19,2024-03-19,26.54,DE
+DemoBrand,Germany,2024-03-20,2024-03-20,23.31,DE
+DemoBrand,Germany,2024-03-21,2024-03-21,25.08,DE
+DemoBrand,Germany,2024-03-22,2024-03-22,27.57,DE
+DemoBrand,Germany,2024-03-23,2024-03-23,27.0,DE
+DemoBrand,Germany,2024-03-24,2024-03-24,22.79,DE
+DemoBrand,Germany,2024-03-25,2024-03-25,24.16,DE
+DemoBrand,Germany,2024-03-26,2024-03-26,24.1,DE
+DemoBrand,Germany,2024-03-27,2024-03-27,24.17,DE
+DemoBrand,Germany,2024-03-28,2024-03-28,21.76,DE
+DemoBrand,Germany,2024-03-29,2024-03-29,22.86,DE
+DemoBrand,Germany,2024-03-30,2024-03-30,22.26,DE
+DemoBrand,Germany,2024-03-31,2024-03-31,24.85,DE
+DemoBrand,Germany,2024-04-01,2024-04-01,24.51,DE
+DemoBrand,Germany,2024-04-02,2024-04-02,22.2,DE
+DemoBrand,Germany,2024-04-03,2024-04-03,21.31,DE
+DemoBrand,Germany,2024-04-04,2024-04-04,21.99,DE
+DemoBrand,Germany,2024-04-05,2024-04-05,19.71,DE
+DemoBrand,Germany,2024-04-06,2024-04-06,18.71,DE
+DemoBrand,Germany,2024-04-07,2024-04-07,18.8,DE
+DemoBrand,Germany,2024-04-08,2024-04-08,19.13,DE
+DemoBrand,Germany,2024-04-09,2024-04-09,17.81,DE
+DemoBrand,Germany,2024-04-10,2024-04-10,20.24,DE
+DemoBrand,Germany,2024-04-11,2024-04-11,21.2,DE
+DemoBrand,Germany,2024-04-12,2024-04-12,16.42,DE
+DemoBrand,Germany,2024-04-13,2024-04-13,19.54,DE
+DemoBrand,Germany,2024-04-14,2024-04-14,19.0,DE
+DemoBrand,Germany,2024-04-15,2024-04-15,20.11,DE
+DemoBrand,Germany,2024-04-16,2024-04-16,19.43,DE
+DemoBrand,Germany,2024-04-17,2024-04-17,16.62,DE
+DemoBrand,Germany,2024-04-18,2024-04-18,17.12,DE
+DemoBrand,Germany,2024-04-19,2024-04-19,19.86,DE
+DemoBrand,Germany,2024-04-20,2024-04-20,22.06,DE
+DemoBrand,Germany,2024-04-21,2024-04-21,15.81,DE
+DemoBrand,Germany,2024-04-22,2024-04-22,21.2,DE
+DemoBrand,Germany,2024-04-23,2024-04-23,23.19,DE
+DemoBrand,Germany,2024-04-24,2024-04-24,20.84,DE
+DemoBrand,Germany,2024-04-25,2024-04-25,22.6,DE
+DemoBrand,Germany,2024-04-26,2024-04-26,20.48,DE
+DemoBrand,Germany,2024-04-27,2024-04-27,22.04,DE
+DemoBrand,Germany,2024-04-28,2024-04-28,19.45,DE
+DemoBrand,Germany,2024-04-29,2024-04-29,18.43,DE
+DemoBrand,Germany,2024-04-30,2024-04-30,25.43,DE
+DemoBrand,Germany,2024-05-01,2024-05-01,22.0,DE
+DemoBrand,Germany,2024-05-02,2024-05-02,23.48,DE
+DemoBrand,Germany,2024-05-03,2024-05-03,22.03,DE
+DemoBrand,Germany,2024-05-04,2024-05-04,22.38,DE
+DemoBrand,Germany,2024-05-05,2024-05-05,25.23,DE
+DemoBrand,Germany,2024-05-06,2024-05-06,24.48,DE
+DemoBrand,Germany,2024-05-07,2024-05-07,27.03,DE
+DemoBrand,Germany,2024-05-08,2024-05-08,27.48,DE
+DemoBrand,Germany,2024-05-09,2024-05-09,27.49,DE
+DemoBrand,Germany,2024-05-10,2024-05-10,27.56,DE
+DemoBrand,Germany,2024-05-11,2024-05-11,30.44,DE
+DemoBrand,Germany,2024-05-12,2024-05-12,25.31,DE
+DemoBrand,Germany,2024-05-13,2024-05-13,27.45,DE
+DemoBrand,Germany,2024-05-14,2024-05-14,29.9,DE
+DemoBrand,Germany,2024-05-15,2024-05-15,30.19,DE
+DemoBrand,Germany,2024-05-16,2024-05-16,24.8,DE
+DemoBrand,Germany,2024-05-17,2024-05-17,26.97,DE
+DemoBrand,Germany,2024-05-18,2024-05-18,30.21,DE
+DemoBrand,Germany,2024-05-19,2024-05-19,28.36,DE
+DemoBrand,Germany,2024-05-20,2024-05-20,27.56,DE
+DemoBrand,Germany,2024-05-21,2024-05-21,26.51,DE
+DemoBrand,Germany,2024-05-22,2024-05-22,25.92,DE
+DemoBrand,Germany,2024-05-23,2024-05-23,26.98,DE
+DemoBrand,Germany,2024-05-24,2024-05-24,25.58,DE
+DemoBrand,Germany,2024-05-25,2024-05-25,25.66,DE
+DemoBrand,Germany,2024-05-26,2024-05-26,25.53,DE
+DemoBrand,Germany,2024-05-27,2024-05-27,29.54,DE
+DemoBrand,Germany,2024-05-28,2024-05-28,32.95,DE
+DemoBrand,Germany,2024-05-29,2024-05-29,34.66,DE
+DemoBrand,Germany,2024-05-30,2024-05-30,26.71,DE
+DemoBrand,Germany,2024-05-31,2024-05-31,28.18,DE
+DemoBrand,Germany,2024-06-01,2024-06-01,27.45,DE
+DemoBrand,Germany,2024-06-02,2024-06-02,30.91,DE
+DemoBrand,Germany,2024-06-03,2024-06-03,28.52,DE
+DemoBrand,Germany,2024-06-04,2024-06-04,29.31,DE
+DemoBrand,Germany,2024-06-05,2024-06-05,29.15,DE
+DemoBrand,Germany,2024-06-06,2024-06-06,27.39,DE
+DemoBrand,Germany,2024-06-07,2024-06-07,28.73,DE
+DemoBrand,Germany,2024-06-08,2024-06-08,21.06,DE
+DemoBrand,Germany,2024-06-09,2024-06-09,29.14,DE
+DemoBrand,Germany,2024-06-10,2024-06-10,26.95,DE
+DemoBrand,Germany,2024-06-11,2024-06-11,27.37,DE
+DemoBrand,Germany,2024-06-12,2024-06-12,22.64,DE
+DemoBrand,Germany,2024-06-13,2024-06-13,22.88,DE
+DemoBrand,Germany,2024-06-14,2024-06-14,26.35,DE
+DemoBrand,Germany,2024-06-15,2024-06-15,26.19,DE
+DemoBrand,Germany,2024-06-16,2024-06-16,26.59,DE
+DemoBrand,Germany,2024-06-17,2024-06-17,28.94,DE
+DemoBrand,Germany,2024-06-18,2024-06-18,22.64,DE
+DemoBrand,Germany,2024-06-19,2024-06-19,28.58,DE
+DemoBrand,Germany,2024-06-20,2024-06-20,26.81,DE
+DemoBrand,Germany,2024-06-21,2024-06-21,26.31,DE
+DemoBrand,Germany,2024-06-22,2024-06-22,23.7,DE
+DemoBrand,Germany,2024-06-23,2024-06-23,30.37,DE
+DemoBrand,Germany,2024-06-24,2024-06-24,22.57,DE
+DemoBrand,Germany,2024-06-25,2024-06-25,28.89,DE
+DemoBrand,Germany,2024-06-26,2024-06-26,25.97,DE
+DemoBrand,Germany,2024-06-27,2024-06-27,29.31,DE
+DemoBrand,Germany,2024-06-28,2024-06-28,27.94,DE
+DemoBrand,Germany,2024-06-29,2024-06-29,33.15,DE
+DemoBrand,Germany,2024-06-30,2024-06-30,29.82,DE
+DemoBrand,Germany,2024-07-01,2024-07-01,28.32,DE
+DemoBrand,Germany,2024-07-02,2024-07-02,31.12,DE
+DemoBrand,Germany,2024-07-03,2024-07-03,34.58,DE
+DemoBrand,Germany,2024-07-04,2024-07-04,31.84,DE
+DemoBrand,Germany,2024-07-05,2024-07-05,33.01,DE
+DemoBrand,Germany,2024-07-06,2024-07-06,32.67,DE
+DemoBrand,Germany,2024-07-07,2024-07-07,29.73,DE
+DemoBrand,Germany,2024-07-08,2024-07-08,35.3,DE
+DemoBrand,Germany,2024-07-09,2024-07-09,30.0,DE
+DemoBrand,Germany,2024-07-10,2024-07-10,35.05,DE
+DemoBrand,Germany,2024-07-11,2024-07-11,33.41,DE
+DemoBrand,Germany,2024-07-12,2024-07-12,39.13,DE
+DemoBrand,Germany,2024-07-13,2024-07-13,32.14,DE
+DemoBrand,Germany,2024-07-14,2024-07-14,33.76,DE
+DemoBrand,Germany,2024-07-15,2024-07-15,36.85,DE
+DemoBrand,Germany,2024-07-16,2024-07-16,36.38,DE
+DemoBrand,Germany,2024-07-17,2024-07-17,32.33,DE
+DemoBrand,Germany,2024-07-18,2024-07-18,32.92,DE
+DemoBrand,Germany,2024-07-19,2024-07-19,32.18,DE
+DemoBrand,Germany,2024-07-20,2024-07-20,34.29,DE
+DemoBrand,Germany,2024-07-21,2024-07-21,29.32,DE
+DemoBrand,Germany,2024-07-22,2024-07-22,32.69,DE
+DemoBrand,Germany,2024-07-23,2024-07-23,28.76,DE
+DemoBrand,Germany,2024-07-24,2024-07-24,33.44,DE
+DemoBrand,Germany,2024-07-25,2024-07-25,32.14,DE
+DemoBrand,Germany,2024-07-26,2024-07-26,31.4,DE
+DemoBrand,Germany,2024-07-27,2024-07-27,27.31,DE
+DemoBrand,Germany,2024-07-28,2024-07-28,32.56,DE
+DemoBrand,Germany,2024-07-29,2024-07-29,31.44,DE
+DemoBrand,Germany,2024-07-30,2024-07-30,27.81,DE
+DemoBrand,Germany,2024-07-31,2024-07-31,29.56,DE
+DemoBrand,Germany,2024-08-01,2024-08-01,24.99,DE
+DemoBrand,Germany,2024-08-02,2024-08-02,26.68,DE
+DemoBrand,Germany,2024-08-03,2024-08-03,27.84,DE
+DemoBrand,Germany,2024-08-04,2024-08-04,30.8,DE
+DemoBrand,Germany,2024-08-05,2024-08-05,27.84,DE
+DemoBrand,Germany,2024-08-06,2024-08-06,27.78,DE
+DemoBrand,Germany,2024-08-07,2024-08-07,24.63,DE
+DemoBrand,Germany,2024-08-08,2024-08-08,26.32,DE
+DemoBrand,Germany,2024-08-09,2024-08-09,26.8,DE
+DemoBrand,Germany,2024-08-10,2024-08-10,28.54,DE
+DemoBrand,Germany,2024-08-11,2024-08-11,25.28,DE
+DemoBrand,Germany,2024-08-12,2024-08-12,22.08,DE
+DemoBrand,Germany,2024-08-13,2024-08-13,24.1,DE
+DemoBrand,Germany,2024-08-14,2024-08-14,24.09,DE
+DemoBrand,Germany,2024-08-15,2024-08-15,24.81,DE
+DemoBrand,Germany,2024-08-16,2024-08-16,29.72,DE
+DemoBrand,Germany,2024-08-17,2024-08-17,25.96,DE
+DemoBrand,Germany,2024-08-18,2024-08-18,32.03,DE
+DemoBrand,Germany,2024-08-19,2024-08-19,17.72,DE
+DemoBrand,Germany,2024-08-20,2024-08-20,21.87,DE
+DemoBrand,Germany,2024-08-21,2024-08-21,19.51,DE
+DemoBrand,Germany,2024-08-22,2024-08-22,21.11,DE
+DemoBrand,Germany,2024-08-23,2024-08-23,22.74,DE
+DemoBrand,Germany,2024-08-24,2024-08-24,18.19,DE
+DemoBrand,Germany,2024-08-25,2024-08-25,23.71,DE
+DemoBrand,Germany,2024-08-26,2024-08-26,27.46,DE
+DemoBrand,Germany,2024-08-27,2024-08-27,23.17,DE
+DemoBrand,Germany,2024-08-28,2024-08-28,25.02,DE
+DemoBrand,Germany,2024-08-29,2024-08-29,26.97,DE
+DemoBrand,Germany,2024-08-30,2024-08-30,25.02,DE
+DemoBrand,Germany,2024-08-31,2024-08-31,24.6,DE
+DemoBrand,Germany,2024-09-01,2024-09-01,21.61,DE
+DemoBrand,Germany,2024-09-02,2024-09-02,27.82,DE
+DemoBrand,Germany,2024-09-03,2024-09-03,26.67,DE
+DemoBrand,Germany,2024-09-04,2024-09-04,25.21,DE
+DemoBrand,Germany,2024-09-05,2024-09-05,27.79,DE
+DemoBrand,Germany,2024-09-06,2024-09-06,26.64,DE
+DemoBrand,Germany,2024-09-07,2024-09-07,26.99,DE
+DemoBrand,Germany,2024-09-08,2024-09-08,29.45,DE
+DemoBrand,Germany,2024-09-09,2024-09-09,25.72,DE
+DemoBrand,Germany,2024-09-10,2024-09-10,30.61,DE
+DemoBrand,Germany,2024-09-11,2024-09-11,25.79,DE
+DemoBrand,Germany,2024-09-12,2024-09-12,27.29,DE
+DemoBrand,Germany,2024-09-13,2024-09-13,32.45,DE
+DemoBrand,Germany,2024-09-14,2024-09-14,30.8,DE
+DemoBrand,Germany,2024-09-15,2024-09-15,28.64,DE
+DemoBrand,Germany,2024-09-16,2024-09-16,26.42,DE
+DemoBrand,Germany,2024-09-17,2024-09-17,27.06,DE
+DemoBrand,Germany,2024-09-18,2024-09-18,28.05,DE
+DemoBrand,Germany,2024-09-19,2024-09-19,27.72,DE
+DemoBrand,Germany,2024-09-20,2024-09-20,27.18,DE
+DemoBrand,Germany,2024-09-21,2024-09-21,26.98,DE
+DemoBrand,Germany,2024-09-22,2024-09-22,26.27,DE
+DemoBrand,Germany,2024-09-23,2024-09-23,23.45,DE
+DemoBrand,Germany,2024-09-24,2024-09-24,24.92,DE
+DemoBrand,Germany,2024-09-25,2024-09-25,27.38,DE
+DemoBrand,Germany,2024-09-26,2024-09-26,22.41,DE
+DemoBrand,Germany,2024-09-27,2024-09-27,24.36,DE
+DemoBrand,Germany,2024-09-28,2024-09-28,22.69,DE
+DemoBrand,Germany,2024-09-29,2024-09-29,24.14,DE
+DemoBrand,Germany,2024-09-30,2024-09-30,22.75,DE
+DemoBrand,Germany,2024-10-01,2024-10-01,26.1,DE
+DemoBrand,Germany,2024-10-02,2024-10-02,23.79,DE
+DemoBrand,Germany,2024-10-03,2024-10-03,19.81,DE
+DemoBrand,Germany,2024-10-04,2024-10-04,23.46,DE
+DemoBrand,Germany,2024-10-05,2024-10-05,20.28,DE
+DemoBrand,Germany,2024-10-06,2024-10-06,20.42,DE
+DemoBrand,Germany,2024-10-07,2024-10-07,21.98,DE
+DemoBrand,Germany,2024-10-08,2024-10-08,20.19,DE
+DemoBrand,Germany,2024-10-09,2024-10-09,22.82,DE
+DemoBrand,Germany,2024-10-10,2024-10-10,19.38,DE
+DemoBrand,Germany,2024-10-11,2024-10-11,19.63,DE
+DemoBrand,Germany,2024-10-12,2024-10-12,19.54,DE
+DemoBrand,Germany,2024-10-13,2024-10-13,19.76,DE
+DemoBrand,Germany,2024-10-14,2024-10-14,23.16,DE
+DemoBrand,Germany,2024-10-15,2024-10-15,22.33,DE
+DemoBrand,Germany,2024-10-16,2024-10-16,24.66,DE
+DemoBrand,Germany,2024-10-17,2024-10-17,25.97,DE
+DemoBrand,Germany,2024-10-18,2024-10-18,19.61,DE
+DemoBrand,Germany,2024-10-19,2024-10-19,22.08,DE
+DemoBrand,Germany,2024-10-20,2024-10-20,19.89,DE
+DemoBrand,Germany,2024-10-21,2024-10-21,21.02,DE
+DemoBrand,Germany,2024-10-22,2024-10-22,21.68,DE
+DemoBrand,Germany,2024-10-23,2024-10-23,21.2,DE
+DemoBrand,Germany,2024-10-24,2024-10-24,21.61,DE
+DemoBrand,Germany,2024-10-25,2024-10-25,23.84,DE
+DemoBrand,Germany,2024-10-26,2024-10-26,22.12,DE
+DemoBrand,Germany,2024-10-27,2024-10-27,26.66,DE
+DemoBrand,Germany,2024-10-28,2024-10-28,23.57,DE
+DemoBrand,Germany,2024-10-29,2024-10-29,31.44,DE
+DemoBrand,Germany,2024-10-30,2024-10-30,25.33,DE
+DemoBrand,Germany,2024-10-31,2024-10-31,26.78,DE
+DemoBrand,Germany,2024-11-01,2024-11-01,24.43,DE
+DemoBrand,Germany,2024-11-02,2024-11-02,30.79,DE
+DemoBrand,Germany,2024-11-03,2024-11-03,29.95,DE
+DemoBrand,Germany,2024-11-04,2024-11-04,28.61,DE
+DemoBrand,Germany,2024-11-05,2024-11-05,25.59,DE
+DemoBrand,Germany,2024-11-06,2024-11-06,28.94,DE
+DemoBrand,Germany,2024-11-07,2024-11-07,26.48,DE
+DemoBrand,Germany,2024-11-08,2024-11-08,31.8,DE
+DemoBrand,Germany,2024-11-09,2024-11-09,30.61,DE
+DemoBrand,Germany,2024-11-10,2024-11-10,29.26,DE
+DemoBrand,Germany,2024-11-11,2024-11-11,24.22,DE
+DemoBrand,Germany,2024-11-12,2024-11-12,27.12,DE
+DemoBrand,Germany,2024-11-13,2024-11-13,30.4,DE
+DemoBrand,Germany,2024-11-14,2024-11-14,31.35,DE
+DemoBrand,Germany,2024-11-15,2024-11-15,31.0,DE
+DemoBrand,Germany,2024-11-16,2024-11-16,25.42,DE
+DemoBrand,Germany,2024-11-17,2024-11-17,28.98,DE
+DemoBrand,Germany,2024-11-18,2024-11-18,30.16,DE
+DemoBrand,Germany,2024-11-19,2024-11-19,24.52,DE
+DemoBrand,Germany,2024-11-20,2024-11-20,27.5,DE
+DemoBrand,Germany,2024-11-21,2024-11-21,27.72,DE
+DemoBrand,Germany,2024-11-22,2024-11-22,26.21,DE
+DemoBrand,Germany,2024-11-23,2024-11-23,22.72,DE
+DemoBrand,Germany,2024-11-24,2024-11-24,25.38,DE
+DemoBrand,Germany,2024-11-25,2024-11-25,24.97,DE
+DemoBrand,Germany,2024-11-26,2024-11-26,24.92,DE
+DemoBrand,Germany,2024-11-27,2024-11-27,23.68,DE
+DemoBrand,Germany,2024-11-28,2024-11-28,23.51,DE
+DemoBrand,Germany,2024-11-29,2024-11-29,23.92,DE
+DemoBrand,Germany,2024-11-30,2024-11-30,24.51,DE
+DemoBrand,Germany,2024-12-01,2024-12-01,22.65,DE
+DemoBrand,Germany,2024-12-02,2024-12-02,22.09,DE
+DemoBrand,Germany,2024-12-03,2024-12-03,22.78,DE
+DemoBrand,Germany,2024-12-04,2024-12-04,18.47,DE
+DemoBrand,Germany,2024-12-05,2024-12-05,23.01,DE
+DemoBrand,Germany,2024-12-06,2024-12-06,21.83,DE
+DemoBrand,Germany,2024-12-07,2024-12-07,21.73,DE
+DemoBrand,Germany,2024-12-08,2024-12-08,23.43,DE
+DemoBrand,Germany,2024-12-09,2024-12-09,17.5,DE
+DemoBrand,Germany,2024-12-10,2024-12-10,17.4,DE
+DemoBrand,Germany,2024-12-11,2024-12-11,21.88,DE
+DemoBrand,Germany,2024-12-12,2024-12-12,21.35,DE
+DemoBrand,Germany,2024-12-13,2024-12-13,21.78,DE
+DemoBrand,Germany,2024-12-14,2024-12-14,20.63,DE
+DemoBrand,Germany,2024-12-15,2024-12-15,23.04,DE
+DemoBrand,Germany,2024-12-16,2024-12-16,23.78,DE
+DemoBrand,Germany,2024-12-17,2024-12-17,23.12,DE
+DemoBrand,Germany,2024-12-18,2024-12-18,21.9,DE
+DemoBrand,Germany,2024-12-19,2024-12-19,18.51,DE
+DemoBrand,Germany,2024-12-20,2024-12-20,24.59,DE
+DemoBrand,Germany,2024-12-21,2024-12-21,25.86,DE
+DemoBrand,Germany,2024-12-22,2024-12-22,25.09,DE
+DemoBrand,Germany,2024-12-23,2024-12-23,22.44,DE
+DemoBrand,Germany,2024-12-24,2024-12-24,25.96,DE
+DemoBrand,Germany,2024-12-25,2024-12-25,26.75,DE
+DemoBrand,Germany,2024-12-26,2024-12-26,28.57,DE
+DemoBrand,Germany,2024-12-27,2024-12-27,24.13,DE
+DemoBrand,Germany,2024-12-28,2024-12-28,25.85,DE
+DemoBrand,Germany,2024-12-29,2024-12-29,28.21,DE
+DemoBrand,France,2024-01-01,2024-01-01,19.74,FR
+DemoBrand,France,2024-01-02,2024-01-02,20.89,FR
+DemoBrand,France,2024-01-03,2024-01-03,21.83,FR
+DemoBrand,France,2024-01-04,2024-01-04,23.27,FR
+DemoBrand,France,2024-01-05,2024-01-05,24.61,FR
+DemoBrand,France,2024-01-06,2024-01-06,22.23,FR
+DemoBrand,France,2024-01-07,2024-01-07,22.26,FR
+DemoBrand,France,2024-01-08,2024-01-08,24.37,FR
+DemoBrand,France,2024-01-09,2024-01-09,25.01,FR
+DemoBrand,France,2024-01-10,2024-01-10,23.18,FR
+DemoBrand,France,2024-01-11,2024-01-11,25.86,FR
+DemoBrand,France,2024-01-12,2024-01-12,26.43,FR
+DemoBrand,France,2024-01-13,2024-01-13,27.2,FR
+DemoBrand,France,2024-01-14,2024-01-14,28.28,FR
+DemoBrand,France,2024-01-15,2024-01-15,23.06,FR
+DemoBrand,France,2024-01-16,2024-01-16,24.84,FR
+DemoBrand,France,2024-01-17,2024-01-17,24.81,FR
+DemoBrand,France,2024-01-18,2024-01-18,24.53,FR
+DemoBrand,France,2024-01-19,2024-01-19,23.32,FR
+DemoBrand,France,2024-01-20,2024-01-20,21.49,FR
+DemoBrand,France,2024-01-21,2024-01-21,24.46,FR
+DemoBrand,France,2024-01-22,2024-01-22,22.51,FR
+DemoBrand,France,2024-01-23,2024-01-23,23.95,FR
+DemoBrand,France,2024-01-24,2024-01-24,21.9,FR
+DemoBrand,France,2024-01-25,2024-01-25,20.96,FR
+DemoBrand,France,2024-01-26,2024-01-26,23.27,FR
+DemoBrand,France,2024-01-27,2024-01-27,22.73,FR
+DemoBrand,France,2024-01-28,2024-01-28,23.2,FR
+DemoBrand,France,2024-01-29,2024-01-29,26.01,FR
+DemoBrand,France,2024-01-30,2024-01-30,21.78,FR
+DemoBrand,France,2024-01-31,2024-01-31,21.77,FR
+DemoBrand,France,2024-02-01,2024-02-01,18.23,FR
+DemoBrand,France,2024-02-02,2024-02-02,17.4,FR
+DemoBrand,France,2024-02-03,2024-02-03,22.73,FR
+DemoBrand,France,2024-02-04,2024-02-04,17.33,FR
+DemoBrand,France,2024-02-05,2024-02-05,16.71,FR
+DemoBrand,France,2024-02-06,2024-02-06,18.37,FR
+DemoBrand,France,2024-02-07,2024-02-07,17.94,FR
+DemoBrand,France,2024-02-08,2024-02-08,16.02,FR
+DemoBrand,France,2024-02-09,2024-02-09,16.95,FR
+DemoBrand,France,2024-02-10,2024-02-10,19.79,FR
+DemoBrand,France,2024-02-11,2024-02-11,15.53,FR
+DemoBrand,France,2024-02-12,2024-02-12,14.2,FR
+DemoBrand,France,2024-02-13,2024-02-13,18.77,FR
+DemoBrand,France,2024-02-14,2024-02-14,17.8,FR
+DemoBrand,France,2024-02-15,2024-02-15,15.55,FR
+DemoBrand,France,2024-02-16,2024-02-16,13.65,FR
+DemoBrand,France,2024-02-17,2024-02-17,15.39,FR
+DemoBrand,France,2024-02-18,2024-02-18,16.88,FR
+DemoBrand,France,2024-02-19,2024-02-19,19.47,FR
+DemoBrand,France,2024-02-20,2024-02-20,15.25,FR
+DemoBrand,France,2024-02-21,2024-02-21,17.38,FR
+DemoBrand,France,2024-02-22,2024-02-22,19.17,FR
+DemoBrand,France,2024-02-23,2024-02-23,13.35,FR
+DemoBrand,France,2024-02-24,2024-02-24,20.5,FR
+DemoBrand,France,2024-02-25,2024-02-25,16.42,FR
+DemoBrand,France,2024-02-26,2024-02-26,19.82,FR
+DemoBrand,France,2024-02-27,2024-02-27,20.04,FR
+DemoBrand,France,2024-02-28,2024-02-28,22.12,FR
+DemoBrand,France,2024-02-29,2024-02-29,21.47,FR
+DemoBrand,France,2024-03-01,2024-03-01,16.03,FR
+DemoBrand,France,2024-03-02,2024-03-02,19.63,FR
+DemoBrand,France,2024-03-03,2024-03-03,21.89,FR
+DemoBrand,France,2024-03-04,2024-03-04,21.63,FR
+DemoBrand,France,2024-03-05,2024-03-05,23.36,FR
+DemoBrand,France,2024-03-06,2024-03-06,24.36,FR
+DemoBrand,France,2024-03-07,2024-03-07,24.35,FR
+DemoBrand,France,2024-03-08,2024-03-08,23.03,FR
+DemoBrand,France,2024-03-09,2024-03-09,20.06,FR
+DemoBrand,France,2024-03-10,2024-03-10,23.1,FR
+DemoBrand,France,2024-03-11,2024-03-11,25.07,FR
+DemoBrand,France,2024-03-12,2024-03-12,22.25,FR
+DemoBrand,France,2024-03-13,2024-03-13,25.84,FR
+DemoBrand,France,2024-03-14,2024-03-14,26.5,FR
+DemoBrand,France,2024-03-15,2024-03-15,25.01,FR
+DemoBrand,France,2024-03-16,2024-03-16,18.65,FR
+DemoBrand,France,2024-03-17,2024-03-17,22.19,FR
+DemoBrand,France,2024-03-18,2024-03-18,28.46,FR
+DemoBrand,France,2024-03-19,2024-03-19,23.48,FR
+DemoBrand,France,2024-03-20,2024-03-20,20.46,FR
+DemoBrand,France,2024-03-21,2024-03-21,26.7,FR
+DemoBrand,France,2024-03-22,2024-03-22,24.03,FR
+DemoBrand,France,2024-03-23,2024-03-23,25.95,FR
+DemoBrand,France,2024-03-24,2024-03-24,24.0,FR
+DemoBrand,France,2024-03-25,2024-03-25,24.04,FR
+DemoBrand,France,2024-03-26,2024-03-26,23.49,FR
+DemoBrand,France,2024-03-27,2024-03-27,23.79,FR
+DemoBrand,France,2024-03-28,2024-03-28,26.56,FR
+DemoBrand,France,2024-03-29,2024-03-29,23.54,FR
+DemoBrand,France,2024-03-30,2024-03-30,18.02,FR
+DemoBrand,France,2024-03-31,2024-03-31,21.66,FR
+DemoBrand,France,2024-04-01,2024-04-01,22.63,FR
+DemoBrand,France,2024-04-02,2024-04-02,22.34,FR
+DemoBrand,France,2024-04-03,2024-04-03,18.67,FR
+DemoBrand,France,2024-04-04,2024-04-04,21.46,FR
+DemoBrand,France,2024-04-05,2024-04-05,20.62,FR
+DemoBrand,France,2024-04-06,2024-04-06,23.55,FR
+DemoBrand,France,2024-04-07,2024-04-07,16.58,FR
+DemoBrand,France,2024-04-08,2024-04-08,16.77,FR
+DemoBrand,France,2024-04-09,2024-04-09,16.91,FR
+DemoBrand,France,2024-04-10,2024-04-10,16.31,FR
+DemoBrand,France,2024-04-11,2024-04-11,15.32,FR
+DemoBrand,France,2024-04-12,2024-04-12,11.43,FR
+DemoBrand,France,2024-04-13,2024-04-13,15.97,FR
+DemoBrand,France,2024-04-14,2024-04-14,17.52,FR
+DemoBrand,France,2024-04-15,2024-04-15,15.77,FR
+DemoBrand,France,2024-04-16,2024-04-16,20.65,FR
+DemoBrand,France,2024-04-17,2024-04-17,16.87,FR
+DemoBrand,France,2024-04-18,2024-04-18,19.53,FR
+DemoBrand,France,2024-04-19,2024-04-19,17.62,FR
+DemoBrand,France,2024-04-20,2024-04-20,18.94,FR
+DemoBrand,France,2024-04-21,2024-04-21,18.07,FR
+DemoBrand,France,2024-04-22,2024-04-22,20.51,FR
+DemoBrand,France,2024-04-23,2024-04-23,18.18,FR
+DemoBrand,France,2024-04-24,2024-04-24,19.39,FR
+DemoBrand,France,2024-04-25,2024-04-25,19.48,FR
+DemoBrand,France,2024-04-26,2024-04-26,18.54,FR
+DemoBrand,France,2024-04-27,2024-04-27,20.32,FR
+DemoBrand,France,2024-04-28,2024-04-28,24.38,FR
+DemoBrand,France,2024-04-29,2024-04-29,19.79,FR
+DemoBrand,France,2024-04-30,2024-04-30,21.58,FR
+DemoBrand,France,2024-05-01,2024-05-01,23.68,FR
+DemoBrand,France,2024-05-02,2024-05-02,23.85,FR
+DemoBrand,France,2024-05-03,2024-05-03,22.0,FR
+DemoBrand,France,2024-05-04,2024-05-04,17.6,FR
+DemoBrand,France,2024-05-05,2024-05-05,23.77,FR
+DemoBrand,France,2024-05-06,2024-05-06,18.65,FR
+DemoBrand,France,2024-05-07,2024-05-07,26.36,FR
+DemoBrand,France,2024-05-08,2024-05-08,24.05,FR
+DemoBrand,France,2024-05-09,2024-05-09,25.97,FR
+DemoBrand,France,2024-05-10,2024-05-10,22.4,FR
+DemoBrand,France,2024-05-11,2024-05-11,21.29,FR
+DemoBrand,France,2024-05-12,2024-05-12,25.06,FR
+DemoBrand,France,2024-05-13,2024-05-13,24.58,FR
+DemoBrand,France,2024-05-14,2024-05-14,23.73,FR
+DemoBrand,France,2024-05-15,2024-05-15,24.9,FR
+DemoBrand,France,2024-05-16,2024-05-16,30.25,FR
+DemoBrand,France,2024-05-17,2024-05-17,26.31,FR
+DemoBrand,France,2024-05-18,2024-05-18,26.64,FR
+DemoBrand,France,2024-05-19,2024-05-19,26.07,FR
+DemoBrand,France,2024-05-20,2024-05-20,27.15,FR
+DemoBrand,France,2024-05-21,2024-05-21,23.59,FR
+DemoBrand,France,2024-05-22,2024-05-22,19.59,FR
+DemoBrand,France,2024-05-23,2024-05-23,23.03,FR
+DemoBrand,France,2024-05-24,2024-05-24,24.7,FR
+DemoBrand,France,2024-05-25,2024-05-25,20.79,FR
+DemoBrand,France,2024-05-26,2024-05-26,22.0,FR
+DemoBrand,France,2024-05-27,2024-05-27,20.58,FR
+DemoBrand,France,2024-05-28,2024-05-28,24.56,FR
+DemoBrand,France,2024-05-29,2024-05-29,22.64,FR
+DemoBrand,France,2024-05-30,2024-05-30,22.03,FR
+DemoBrand,France,2024-05-31,2024-05-31,21.55,FR
+DemoBrand,France,2024-06-01,2024-06-01,19.82,FR
+DemoBrand,France,2024-06-02,2024-06-02,19.88,FR
+DemoBrand,France,2024-06-03,2024-06-03,16.72,FR
+DemoBrand,France,2024-06-04,2024-06-04,14.35,FR
+DemoBrand,France,2024-06-05,2024-06-05,18.67,FR
+DemoBrand,France,2024-06-06,2024-06-06,18.69,FR
+DemoBrand,France,2024-06-07,2024-06-07,20.17,FR
+DemoBrand,France,2024-06-08,2024-06-08,20.63,FR
+DemoBrand,France,2024-06-09,2024-06-09,20.39,FR
+DemoBrand,France,2024-06-10,2024-06-10,15.07,FR
+DemoBrand,France,2024-06-11,2024-06-11,16.21,FR
+DemoBrand,France,2024-06-12,2024-06-12,17.76,FR
+DemoBrand,France,2024-06-13,2024-06-13,21.8,FR
+DemoBrand,France,2024-06-14,2024-06-14,19.67,FR
+DemoBrand,France,2024-06-15,2024-06-15,18.97,FR
+DemoBrand,France,2024-06-16,2024-06-16,16.03,FR
+DemoBrand,France,2024-06-17,2024-06-17,15.14,FR
+DemoBrand,France,2024-06-18,2024-06-18,18.64,FR
+DemoBrand,France,2024-06-19,2024-06-19,15.05,FR
+DemoBrand,France,2024-06-20,2024-06-20,17.0,FR
+DemoBrand,France,2024-06-21,2024-06-21,17.51,FR
+DemoBrand,France,2024-06-22,2024-06-22,21.22,FR
+DemoBrand,France,2024-06-23,2024-06-23,17.65,FR
+DemoBrand,France,2024-06-24,2024-06-24,13.83,FR
+DemoBrand,France,2024-06-25,2024-06-25,20.09,FR
+DemoBrand,France,2024-06-26,2024-06-26,18.07,FR
+DemoBrand,France,2024-06-27,2024-06-27,19.96,FR
+DemoBrand,France,2024-06-28,2024-06-28,20.11,FR
+DemoBrand,France,2024-06-29,2024-06-29,20.16,FR
+DemoBrand,France,2024-06-30,2024-06-30,22.7,FR
+DemoBrand,France,2024-07-01,2024-07-01,18.47,FR
+DemoBrand,France,2024-07-02,2024-07-02,20.9,FR
+DemoBrand,France,2024-07-03,2024-07-03,23.7,FR
+DemoBrand,France,2024-07-04,2024-07-04,21.47,FR
+DemoBrand,France,2024-07-05,2024-07-05,19.83,FR
+DemoBrand,France,2024-07-06,2024-07-06,24.71,FR
+DemoBrand,France,2024-07-07,2024-07-07,25.92,FR
+DemoBrand,France,2024-07-08,2024-07-08,23.85,FR
+DemoBrand,France,2024-07-09,2024-07-09,20.24,FR
+DemoBrand,France,2024-07-10,2024-07-10,25.76,FR
+DemoBrand,France,2024-07-11,2024-07-11,21.18,FR
+DemoBrand,France,2024-07-12,2024-07-12,25.23,FR
+DemoBrand,France,2024-07-13,2024-07-13,22.9,FR
+DemoBrand,France,2024-07-14,2024-07-14,22.38,FR
+DemoBrand,France,2024-07-15,2024-07-15,23.79,FR
+DemoBrand,France,2024-07-16,2024-07-16,24.24,FR
+DemoBrand,France,2024-07-17,2024-07-17,23.21,FR
+DemoBrand,France,2024-07-18,2024-07-18,25.52,FR
+DemoBrand,France,2024-07-19,2024-07-19,23.26,FR
+DemoBrand,France,2024-07-20,2024-07-20,25.89,FR
+DemoBrand,France,2024-07-21,2024-07-21,24.23,FR
+DemoBrand,France,2024-07-22,2024-07-22,21.97,FR
+DemoBrand,France,2024-07-23,2024-07-23,21.31,FR
+DemoBrand,France,2024-07-24,2024-07-24,19.39,FR
+DemoBrand,France,2024-07-25,2024-07-25,22.9,FR
+DemoBrand,France,2024-07-26,2024-07-26,21.21,FR
+DemoBrand,France,2024-07-27,2024-07-27,16.77,FR
+DemoBrand,France,2024-07-28,2024-07-28,20.03,FR
+DemoBrand,France,2024-07-29,2024-07-29,18.88,FR
+DemoBrand,France,2024-07-30,2024-07-30,23.42,FR
+DemoBrand,France,2024-07-31,2024-07-31,16.45,FR
+DemoBrand,France,2024-08-01,2024-08-01,16.56,FR
+DemoBrand,France,2024-08-02,2024-08-02,21.28,FR
+DemoBrand,France,2024-08-03,2024-08-03,21.4,FR
+DemoBrand,France,2024-08-04,2024-08-04,16.84,FR
+DemoBrand,France,2024-08-05,2024-08-05,16.74,FR
+DemoBrand,France,2024-08-06,2024-08-06,18.94,FR
+DemoBrand,France,2024-08-07,2024-08-07,12.79,FR
+DemoBrand,France,2024-08-08,2024-08-08,13.49,FR
+DemoBrand,France,2024-08-09,2024-08-09,16.46,FR
+DemoBrand,France,2024-08-10,2024-08-10,19.97,FR
+DemoBrand,France,2024-08-11,2024-08-11,15.89,FR
+DemoBrand,France,2024-08-12,2024-08-12,16.9,FR
+DemoBrand,France,2024-08-13,2024-08-13,18.94,FR
+DemoBrand,France,2024-08-14,2024-08-14,20.91,FR
+DemoBrand,France,2024-08-15,2024-08-15,15.61,FR
+DemoBrand,France,2024-08-16,2024-08-16,16.84,FR
+DemoBrand,France,2024-08-17,2024-08-17,20.66,FR
+DemoBrand,France,2024-08-18,2024-08-18,14.16,FR
+DemoBrand,France,2024-08-19,2024-08-19,19.49,FR
+DemoBrand,France,2024-08-20,2024-08-20,15.66,FR
+DemoBrand,France,2024-08-21,2024-08-21,18.2,FR
+DemoBrand,France,2024-08-22,2024-08-22,17.83,FR
+DemoBrand,France,2024-08-23,2024-08-23,16.75,FR
+DemoBrand,France,2024-08-24,2024-08-24,17.08,FR
+DemoBrand,France,2024-08-25,2024-08-25,19.98,FR
+DemoBrand,France,2024-08-26,2024-08-26,21.83,FR
+DemoBrand,France,2024-08-27,2024-08-27,19.99,FR
+DemoBrand,France,2024-08-28,2024-08-28,20.81,FR
+DemoBrand,France,2024-08-29,2024-08-29,22.23,FR
+DemoBrand,France,2024-08-30,2024-08-30,19.55,FR
+DemoBrand,France,2024-08-31,2024-08-31,23.38,FR
+DemoBrand,France,2024-09-01,2024-09-01,23.93,FR
+DemoBrand,France,2024-09-02,2024-09-02,27.87,FR
+DemoBrand,France,2024-09-03,2024-09-03,22.26,FR
+DemoBrand,France,2024-09-04,2024-09-04,22.42,FR
+DemoBrand,France,2024-09-05,2024-09-05,25.17,FR
+DemoBrand,France,2024-09-06,2024-09-06,25.53,FR
+DemoBrand,France,2024-09-07,2024-09-07,23.05,FR
+DemoBrand,France,2024-09-08,2024-09-08,23.51,FR
+DemoBrand,France,2024-09-09,2024-09-09,25.54,FR
+DemoBrand,France,2024-09-10,2024-09-10,22.91,FR
+DemoBrand,France,2024-09-11,2024-09-11,23.81,FR
+DemoBrand,France,2024-09-12,2024-09-12,24.84,FR
+DemoBrand,France,2024-09-13,2024-09-13,26.63,FR
+DemoBrand,France,2024-09-14,2024-09-14,23.36,FR
+DemoBrand,France,2024-09-15,2024-09-15,20.77,FR
+DemoBrand,France,2024-09-16,2024-09-16,20.47,FR
+DemoBrand,France,2024-09-17,2024-09-17,21.6,FR
+DemoBrand,France,2024-09-18,2024-09-18,21.26,FR
+DemoBrand,France,2024-09-19,2024-09-19,23.31,FR
+DemoBrand,France,2024-09-20,2024-09-20,20.95,FR
+DemoBrand,France,2024-09-21,2024-09-21,21.6,FR
+DemoBrand,France,2024-09-22,2024-09-22,21.1,FR
+DemoBrand,France,2024-09-23,2024-09-23,21.39,FR
+DemoBrand,France,2024-09-24,2024-09-24,24.53,FR
+DemoBrand,France,2024-09-25,2024-09-25,22.8,FR
+DemoBrand,France,2024-09-26,2024-09-26,21.1,FR
+DemoBrand,France,2024-09-27,2024-09-27,19.72,FR
+DemoBrand,France,2024-09-28,2024-09-28,19.36,FR
+DemoBrand,France,2024-09-29,2024-09-29,20.47,FR
+DemoBrand,France,2024-09-30,2024-09-30,20.58,FR
+DemoBrand,France,2024-10-01,2024-10-01,17.2,FR
+DemoBrand,France,2024-10-02,2024-10-02,18.72,FR
+DemoBrand,France,2024-10-03,2024-10-03,14.23,FR
+DemoBrand,France,2024-10-04,2024-10-04,18.39,FR
+DemoBrand,France,2024-10-05,2024-10-05,19.19,FR
+DemoBrand,France,2024-10-06,2024-10-06,16.84,FR
+DemoBrand,France,2024-10-07,2024-10-07,20.81,FR
+DemoBrand,France,2024-10-08,2024-10-08,15.22,FR
+DemoBrand,France,2024-10-09,2024-10-09,17.27,FR
+DemoBrand,France,2024-10-10,2024-10-10,16.65,FR
+DemoBrand,France,2024-10-11,2024-10-11,16.46,FR
+DemoBrand,France,2024-10-12,2024-10-12,16.41,FR
+DemoBrand,France,2024-10-13,2024-10-13,16.87,FR
+DemoBrand,France,2024-10-14,2024-10-14,18.42,FR
+DemoBrand,France,2024-10-15,2024-10-15,19.59,FR
+DemoBrand,France,2024-10-16,2024-10-16,16.97,FR
+DemoBrand,France,2024-10-17,2024-10-17,18.8,FR
+DemoBrand,France,2024-10-18,2024-10-18,15.99,FR
+DemoBrand,France,2024-10-19,2024-10-19,19.19,FR
+DemoBrand,France,2024-10-20,2024-10-20,16.43,FR
+DemoBrand,France,2024-10-21,2024-10-21,20.46,FR
+DemoBrand,France,2024-10-22,2024-10-22,23.05,FR
+DemoBrand,France,2024-10-23,2024-10-23,18.76,FR
+DemoBrand,France,2024-10-24,2024-10-24,15.01,FR
+DemoBrand,France,2024-10-25,2024-10-25,18.7,FR
+DemoBrand,France,2024-10-26,2024-10-26,22.67,FR
+DemoBrand,France,2024-10-27,2024-10-27,21.73,FR
+DemoBrand,France,2024-10-28,2024-10-28,21.54,FR
+DemoBrand,France,2024-10-29,2024-10-29,23.47,FR
+DemoBrand,France,2024-10-30,2024-10-30,22.83,FR
+DemoBrand,France,2024-10-31,2024-10-31,24.69,FR
+DemoBrand,France,2024-11-01,2024-11-01,24.46,FR
+DemoBrand,France,2024-11-02,2024-11-02,26.02,FR
+DemoBrand,France,2024-11-03,2024-11-03,24.02,FR
+DemoBrand,France,2024-11-04,2024-11-04,25.4,FR
+DemoBrand,France,2024-11-05,2024-11-05,23.24,FR
+DemoBrand,France,2024-11-06,2024-11-06,22.88,FR
+DemoBrand,France,2024-11-07,2024-11-07,27.69,FR
+DemoBrand,France,2024-11-08,2024-11-08,24.86,FR
+DemoBrand,France,2024-11-09,2024-11-09,26.14,FR
+DemoBrand,France,2024-11-10,2024-11-10,24.84,FR
+DemoBrand,France,2024-11-11,2024-11-11,23.44,FR
+DemoBrand,France,2024-11-12,2024-11-12,24.62,FR
+DemoBrand,France,2024-11-13,2024-11-13,27.4,FR
+DemoBrand,France,2024-11-14,2024-11-14,25.53,FR
+DemoBrand,France,2024-11-15,2024-11-15,20.85,FR
+DemoBrand,France,2024-11-16,2024-11-16,23.65,FR
+DemoBrand,France,2024-11-17,2024-11-17,27.41,FR
+DemoBrand,France,2024-11-18,2024-11-18,23.16,FR
+DemoBrand,France,2024-11-19,2024-11-19,19.69,FR
+DemoBrand,France,2024-11-20,2024-11-20,26.75,FR
+DemoBrand,France,2024-11-21,2024-11-21,23.97,FR
+DemoBrand,France,2024-11-22,2024-11-22,22.1,FR
+DemoBrand,France,2024-11-23,2024-11-23,21.1,FR
+DemoBrand,France,2024-11-24,2024-11-24,23.6,FR
+DemoBrand,France,2024-11-25,2024-11-25,19.94,FR
+DemoBrand,France,2024-11-26,2024-11-26,22.9,FR
+DemoBrand,France,2024-11-27,2024-11-27,21.27,FR
+DemoBrand,France,2024-11-28,2024-11-28,20.26,FR
+DemoBrand,France,2024-11-29,2024-11-29,19.66,FR
+DemoBrand,France,2024-11-30,2024-11-30,18.63,FR
+DemoBrand,France,2024-12-01,2024-12-01,20.69,FR
+DemoBrand,France,2024-12-02,2024-12-02,16.52,FR
+DemoBrand,France,2024-12-03,2024-12-03,14.68,FR
+DemoBrand,France,2024-12-04,2024-12-04,18.86,FR
+DemoBrand,France,2024-12-05,2024-12-05,18.63,FR
+DemoBrand,France,2024-12-06,2024-12-06,18.1,FR
+DemoBrand,France,2024-12-07,2024-12-07,17.76,FR
+DemoBrand,France,2024-12-08,2024-12-08,16.15,FR
+DemoBrand,France,2024-12-09,2024-12-09,18.26,FR
+DemoBrand,France,2024-12-10,2024-12-10,16.53,FR
+DemoBrand,France,2024-12-11,2024-12-11,15.62,FR
+DemoBrand,France,2024-12-12,2024-12-12,15.99,FR
+DemoBrand,France,2024-12-13,2024-12-13,20.72,FR
+DemoBrand,France,2024-12-14,2024-12-14,13.32,FR
+DemoBrand,France,2024-12-15,2024-12-15,17.94,FR
+DemoBrand,France,2024-12-16,2024-12-16,13.77,FR
+DemoBrand,France,2024-12-17,2024-12-17,17.14,FR
+DemoBrand,France,2024-12-18,2024-12-18,16.75,FR
+DemoBrand,France,2024-12-19,2024-12-19,13.75,FR
+DemoBrand,France,2024-12-20,2024-12-20,19.02,FR
+DemoBrand,France,2024-12-21,2024-12-21,17.83,FR
+DemoBrand,France,2024-12-22,2024-12-22,14.76,FR
+DemoBrand,France,2024-12-23,2024-12-23,21.03,FR
+DemoBrand,France,2024-12-24,2024-12-24,22.63,FR
+DemoBrand,France,2024-12-25,2024-12-25,23.15,FR
+DemoBrand,France,2024-12-26,2024-12-26,21.31,FR
+DemoBrand,France,2024-12-27,2024-12-27,21.1,FR
+DemoBrand,France,2024-12-28,2024-12-28,24.07,FR
+DemoBrand,France,2024-12-29,2024-12-29,25.19,FR
+DemoBrand,Italy,2024-01-01,2024-01-01,29.38,IT
+DemoBrand,Italy,2024-01-02,2024-01-02,30.28,IT
+DemoBrand,Italy,2024-01-03,2024-01-03,26.2,IT
+DemoBrand,Italy,2024-01-04,2024-01-04,31.17,IT
+DemoBrand,Italy,2024-01-05,2024-01-05,35.17,IT
+DemoBrand,Italy,2024-01-06,2024-01-06,32.28,IT
+DemoBrand,Italy,2024-01-07,2024-01-07,34.3,IT
+DemoBrand,Italy,2024-01-08,2024-01-08,32.05,IT
+DemoBrand,Italy,2024-01-09,2024-01-09,31.84,IT
+DemoBrand,Italy,2024-01-10,2024-01-10,33.01,IT
+DemoBrand,Italy,2024-01-11,2024-01-11,30.85,IT
+DemoBrand,Italy,2024-01-12,2024-01-12,30.75,IT
+DemoBrand,Italy,2024-01-13,2024-01-13,35.37,IT
+DemoBrand,Italy,2024-01-14,2024-01-14,35.69,IT
+DemoBrand,Italy,2024-01-15,2024-01-15,31.03,IT
+DemoBrand,Italy,2024-01-16,2024-01-16,34.98,IT
+DemoBrand,Italy,2024-01-17,2024-01-17,32.85,IT
+DemoBrand,Italy,2024-01-18,2024-01-18,33.64,IT
+DemoBrand,Italy,2024-01-19,2024-01-19,33.78,IT
+DemoBrand,Italy,2024-01-20,2024-01-20,34.7,IT
+DemoBrand,Italy,2024-01-21,2024-01-21,32.69,IT
+DemoBrand,Italy,2024-01-22,2024-01-22,35.12,IT
+DemoBrand,Italy,2024-01-23,2024-01-23,32.66,IT
+DemoBrand,Italy,2024-01-24,2024-01-24,33.0,IT
+DemoBrand,Italy,2024-01-25,2024-01-25,29.77,IT
+DemoBrand,Italy,2024-01-26,2024-01-26,35.4,IT
+DemoBrand,Italy,2024-01-27,2024-01-27,31.66,IT
+DemoBrand,Italy,2024-01-28,2024-01-28,31.76,IT
+DemoBrand,Italy,2024-01-29,2024-01-29,26.71,IT
+DemoBrand,Italy,2024-01-30,2024-01-30,27.88,IT
+DemoBrand,Italy,2024-01-31,2024-01-31,31.58,IT
+DemoBrand,Italy,2024-02-01,2024-02-01,29.27,IT
+DemoBrand,Italy,2024-02-02,2024-02-02,24.46,IT
+DemoBrand,Italy,2024-02-03,2024-02-03,29.96,IT
+DemoBrand,Italy,2024-02-04,2024-02-04,26.41,IT
+DemoBrand,Italy,2024-02-05,2024-02-05,29.95,IT
+DemoBrand,Italy,2024-02-06,2024-02-06,26.61,IT
+DemoBrand,Italy,2024-02-07,2024-02-07,26.87,IT
+DemoBrand,Italy,2024-02-08,2024-02-08,28.53,IT
+DemoBrand,Italy,2024-02-09,2024-02-09,24.11,IT
+DemoBrand,Italy,2024-02-10,2024-02-10,23.7,IT
+DemoBrand,Italy,2024-02-11,2024-02-11,25.11,IT
+DemoBrand,Italy,2024-02-12,2024-02-12,27.01,IT
+DemoBrand,Italy,2024-02-13,2024-02-13,22.59,IT
+DemoBrand,Italy,2024-02-14,2024-02-14,21.85,IT
+DemoBrand,Italy,2024-02-15,2024-02-15,26.82,IT
+DemoBrand,Italy,2024-02-16,2024-02-16,23.99,IT
+DemoBrand,Italy,2024-02-17,2024-02-17,24.48,IT
+DemoBrand,Italy,2024-02-18,2024-02-18,21.67,IT
+DemoBrand,Italy,2024-02-19,2024-02-19,24.18,IT
+DemoBrand,Italy,2024-02-20,2024-02-20,25.71,IT
+DemoBrand,Italy,2024-02-21,2024-02-21,27.82,IT
+DemoBrand,Italy,2024-02-22,2024-02-22,24.69,IT
+DemoBrand,Italy,2024-02-23,2024-02-23,29.84,IT
+DemoBrand,Italy,2024-02-24,2024-02-24,25.49,IT
+DemoBrand,Italy,2024-02-25,2024-02-25,25.85,IT
+DemoBrand,Italy,2024-02-26,2024-02-26,30.67,IT
+DemoBrand,Italy,2024-02-27,2024-02-27,28.41,IT
+DemoBrand,Italy,2024-02-28,2024-02-28,27.29,IT
+DemoBrand,Italy,2024-02-29,2024-02-29,28.5,IT
+DemoBrand,Italy,2024-03-01,2024-03-01,31.94,IT
+DemoBrand,Italy,2024-03-02,2024-03-02,32.59,IT
+DemoBrand,Italy,2024-03-03,2024-03-03,28.44,IT
+DemoBrand,Italy,2024-03-04,2024-03-04,30.4,IT
+DemoBrand,Italy,2024-03-05,2024-03-05,31.06,IT
+DemoBrand,Italy,2024-03-06,2024-03-06,29.29,IT
+DemoBrand,Italy,2024-03-07,2024-03-07,31.5,IT
+DemoBrand,Italy,2024-03-08,2024-03-08,31.95,IT
+DemoBrand,Italy,2024-03-09,2024-03-09,34.52,IT
+DemoBrand,Italy,2024-03-10,2024-03-10,34.93,IT
+DemoBrand,Italy,2024-03-11,2024-03-11,32.09,IT
+DemoBrand,Italy,2024-03-12,2024-03-12,32.51,IT
+DemoBrand,Italy,2024-03-13,2024-03-13,34.42,IT
+DemoBrand,Italy,2024-03-14,2024-03-14,32.04,IT
+DemoBrand,Italy,2024-03-15,2024-03-15,34.45,IT
+DemoBrand,Italy,2024-03-16,2024-03-16,33.13,IT
+DemoBrand,Italy,2024-03-17,2024-03-17,31.35,IT
+DemoBrand,Italy,2024-03-18,2024-03-18,31.31,IT
+DemoBrand,Italy,2024-03-19,2024-03-19,36.01,IT
+DemoBrand,Italy,2024-03-20,2024-03-20,32.66,IT
+DemoBrand,Italy,2024-03-21,2024-03-21,36.07,IT
+DemoBrand,Italy,2024-03-22,2024-03-22,31.54,IT
+DemoBrand,Italy,2024-03-23,2024-03-23,32.89,IT
+DemoBrand,Italy,2024-03-24,2024-03-24,36.8,IT
+DemoBrand,Italy,2024-03-25,2024-03-25,29.58,IT
+DemoBrand,Italy,2024-03-26,2024-03-26,27.55,IT
+DemoBrand,Italy,2024-03-27,2024-03-27,33.55,IT
+DemoBrand,Italy,2024-03-28,2024-03-28,28.94,IT
+DemoBrand,Italy,2024-03-29,2024-03-29,30.15,IT
+DemoBrand,Italy,2024-03-30,2024-03-30,28.61,IT
+DemoBrand,Italy,2024-03-31,2024-03-31,29.9,IT
+DemoBrand,Italy,2024-04-01,2024-04-01,27.05,IT
+DemoBrand,Italy,2024-04-02,2024-04-02,28.18,IT
+DemoBrand,Italy,2024-04-03,2024-04-03,29.04,IT
+DemoBrand,Italy,2024-04-04,2024-04-04,25.74,IT
+DemoBrand,Italy,2024-04-05,2024-04-05,25.99,IT
+DemoBrand,Italy,2024-04-06,2024-04-06,26.35,IT
+DemoBrand,Italy,2024-04-07,2024-04-07,23.86,IT
+DemoBrand,Italy,2024-04-08,2024-04-08,25.58,IT
+DemoBrand,Italy,2024-04-09,2024-04-09,26.41,IT
+DemoBrand,Italy,2024-04-10,2024-04-10,25.15,IT
+DemoBrand,Italy,2024-04-11,2024-04-11,25.22,IT
+DemoBrand,Italy,2024-04-12,2024-04-12,25.57,IT
+DemoBrand,Italy,2024-04-13,2024-04-13,24.2,IT
+DemoBrand,Italy,2024-04-14,2024-04-14,26.83,IT
+DemoBrand,Italy,2024-04-15,2024-04-15,28.3,IT
+DemoBrand,Italy,2024-04-16,2024-04-16,24.53,IT
+DemoBrand,Italy,2024-04-17,2024-04-17,26.5,IT
+DemoBrand,Italy,2024-04-18,2024-04-18,25.16,IT
+DemoBrand,Italy,2024-04-19,2024-04-19,26.53,IT
+DemoBrand,Italy,2024-04-20,2024-04-20,29.12,IT
+DemoBrand,Italy,2024-04-21,2024-04-21,27.24,IT
+DemoBrand,Italy,2024-04-22,2024-04-22,22.94,IT
+DemoBrand,Italy,2024-04-23,2024-04-23,27.7,IT
+DemoBrand,Italy,2024-04-24,2024-04-24,29.58,IT
+DemoBrand,Italy,2024-04-25,2024-04-25,27.03,IT
+DemoBrand,Italy,2024-04-26,2024-04-26,29.84,IT
+DemoBrand,Italy,2024-04-27,2024-04-27,26.87,IT
+DemoBrand,Italy,2024-04-28,2024-04-28,25.68,IT
+DemoBrand,Italy,2024-04-29,2024-04-29,29.36,IT
+DemoBrand,Italy,2024-04-30,2024-04-30,25.98,IT
+DemoBrand,Italy,2024-05-01,2024-05-01,29.44,IT
+DemoBrand,Italy,2024-05-02,2024-05-02,32.91,IT
+DemoBrand,Italy,2024-05-03,2024-05-03,26.93,IT
+DemoBrand,Italy,2024-05-04,2024-05-04,28.58,IT
+DemoBrand,Italy,2024-05-05,2024-05-05,29.45,IT
+DemoBrand,Italy,2024-05-06,2024-05-06,31.75,IT
+DemoBrand,Italy,2024-05-07,2024-05-07,31.47,IT
+DemoBrand,Italy,2024-05-08,2024-05-08,35.3,IT
+DemoBrand,Italy,2024-05-09,2024-05-09,34.68,IT
+DemoBrand,Italy,2024-05-10,2024-05-10,33.99,IT
+DemoBrand,Italy,2024-05-11,2024-05-11,33.49,IT
+DemoBrand,Italy,2024-05-12,2024-05-12,34.14,IT
+DemoBrand,Italy,2024-05-13,2024-05-13,31.74,IT
+DemoBrand,Italy,2024-05-14,2024-05-14,35.25,IT
+DemoBrand,Italy,2024-05-15,2024-05-15,31.34,IT
+DemoBrand,Italy,2024-05-16,2024-05-16,35.21,IT
+DemoBrand,Italy,2024-05-17,2024-05-17,35.85,IT
+DemoBrand,Italy,2024-05-18,2024-05-18,33.8,IT
+DemoBrand,Italy,2024-05-19,2024-05-19,32.88,IT
+DemoBrand,Italy,2024-05-20,2024-05-20,33.85,IT
+DemoBrand,Italy,2024-05-21,2024-05-21,27.1,IT
+DemoBrand,Italy,2024-05-22,2024-05-22,33.17,IT
+DemoBrand,Italy,2024-05-23,2024-05-23,32.05,IT
+DemoBrand,Italy,2024-05-24,2024-05-24,31.85,IT
+DemoBrand,Italy,2024-05-25,2024-05-25,33.02,IT
+DemoBrand,Italy,2024-05-26,2024-05-26,31.09,IT
+DemoBrand,Italy,2024-05-27,2024-05-27,28.57,IT
+DemoBrand,Italy,2024-05-28,2024-05-28,30.17,IT
+DemoBrand,Italy,2024-05-29,2024-05-29,30.17,IT
+DemoBrand,Italy,2024-05-30,2024-05-30,29.86,IT
+DemoBrand,Italy,2024-05-31,2024-05-31,29.54,IT
+DemoBrand,Italy,2024-06-01,2024-06-01,30.88,IT
+DemoBrand,Italy,2024-06-02,2024-06-02,26.23,IT
+DemoBrand,Italy,2024-06-03,2024-06-03,28.37,IT
+DemoBrand,Italy,2024-06-04,2024-06-04,30.23,IT
+DemoBrand,Italy,2024-06-05,2024-06-05,23.83,IT
+DemoBrand,Italy,2024-06-06,2024-06-06,27.34,IT
+DemoBrand,Italy,2024-06-07,2024-06-07,25.52,IT
+DemoBrand,Italy,2024-06-08,2024-06-08,25.69,IT
+DemoBrand,Italy,2024-06-09,2024-06-09,24.4,IT
+DemoBrand,Italy,2024-06-10,2024-06-10,25.68,IT
+DemoBrand,Italy,2024-06-11,2024-06-11,29.56,IT
+DemoBrand,Italy,2024-06-12,2024-06-12,23.24,IT
+DemoBrand,Italy,2024-06-13,2024-06-13,23.37,IT
+DemoBrand,Italy,2024-06-14,2024-06-14,23.09,IT
+DemoBrand,Italy,2024-06-15,2024-06-15,29.17,IT
+DemoBrand,Italy,2024-06-16,2024-06-16,24.86,IT
+DemoBrand,Italy,2024-06-17,2024-06-17,25.85,IT
+DemoBrand,Italy,2024-06-18,2024-06-18,25.25,IT
+DemoBrand,Italy,2024-06-19,2024-06-19,24.36,IT
+DemoBrand,Italy,2024-06-20,2024-06-20,26.01,IT
+DemoBrand,Italy,2024-06-21,2024-06-21,31.67,IT
+DemoBrand,Italy,2024-06-22,2024-06-22,29.83,IT
+DemoBrand,Italy,2024-06-23,2024-06-23,25.67,IT
+DemoBrand,Italy,2024-06-24,2024-06-24,29.03,IT
+DemoBrand,Italy,2024-06-25,2024-06-25,26.45,IT
+DemoBrand,Italy,2024-06-26,2024-06-26,24.95,IT
+DemoBrand,Italy,2024-06-27,2024-06-27,30.95,IT
+DemoBrand,Italy,2024-06-28,2024-06-28,31.65,IT
+DemoBrand,Italy,2024-06-29,2024-06-29,31.85,IT
+DemoBrand,Italy,2024-06-30,2024-06-30,29.24,IT
+DemoBrand,Italy,2024-07-01,2024-07-01,30.26,IT
+DemoBrand,Italy,2024-07-02,2024-07-02,32.5,IT
+DemoBrand,Italy,2024-07-03,2024-07-03,32.18,IT
+DemoBrand,Italy,2024-07-04,2024-07-04,30.99,IT
+DemoBrand,Italy,2024-07-05,2024-07-05,28.89,IT
+DemoBrand,Italy,2024-07-06,2024-07-06,32.69,IT
+DemoBrand,Italy,2024-07-07,2024-07-07,34.92,IT
+DemoBrand,Italy,2024-07-08,2024-07-08,30.64,IT
+DemoBrand,Italy,2024-07-09,2024-07-09,34.54,IT
+DemoBrand,Italy,2024-07-10,2024-07-10,34.12,IT
+DemoBrand,Italy,2024-07-11,2024-07-11,35.11,IT
+DemoBrand,Italy,2024-07-12,2024-07-12,35.47,IT
+DemoBrand,Italy,2024-07-13,2024-07-13,32.41,IT
+DemoBrand,Italy,2024-07-14,2024-07-14,30.59,IT
+DemoBrand,Italy,2024-07-15,2024-07-15,32.74,IT
+DemoBrand,Italy,2024-07-16,2024-07-16,35.52,IT
+DemoBrand,Italy,2024-07-17,2024-07-17,32.55,IT
+DemoBrand,Italy,2024-07-18,2024-07-18,32.1,IT
+DemoBrand,Italy,2024-07-19,2024-07-19,29.66,IT
+DemoBrand,Italy,2024-07-20,2024-07-20,36.59,IT
+DemoBrand,Italy,2024-07-21,2024-07-21,34.47,IT
+DemoBrand,Italy,2024-07-22,2024-07-22,34.07,IT
+DemoBrand,Italy,2024-07-23,2024-07-23,34.15,IT
+DemoBrand,Italy,2024-07-24,2024-07-24,33.02,IT
+DemoBrand,Italy,2024-07-25,2024-07-25,31.01,IT
+DemoBrand,Italy,2024-07-26,2024-07-26,30.78,IT
+DemoBrand,Italy,2024-07-27,2024-07-27,29.85,IT
+DemoBrand,Italy,2024-07-28,2024-07-28,35.57,IT
+DemoBrand,Italy,2024-07-29,2024-07-29,31.0,IT
+DemoBrand,Italy,2024-07-30,2024-07-30,28.54,IT
+DemoBrand,Italy,2024-07-31,2024-07-31,29.99,IT
+DemoBrand,Italy,2024-08-01,2024-08-01,26.64,IT
+DemoBrand,Italy,2024-08-02,2024-08-02,31.28,IT
+DemoBrand,Italy,2024-08-03,2024-08-03,26.58,IT
+DemoBrand,Italy,2024-08-04,2024-08-04,28.56,IT
+DemoBrand,Italy,2024-08-05,2024-08-05,29.37,IT
+DemoBrand,Italy,2024-08-06,2024-08-06,27.72,IT
+DemoBrand,Italy,2024-08-07,2024-08-07,26.88,IT
+DemoBrand,Italy,2024-08-08,2024-08-08,26.49,IT
+DemoBrand,Italy,2024-08-09,2024-08-09,26.17,IT
+DemoBrand,Italy,2024-08-10,2024-08-10,24.98,IT
+DemoBrand,Italy,2024-08-11,2024-08-11,25.13,IT
+DemoBrand,Italy,2024-08-12,2024-08-12,28.93,IT
+DemoBrand,Italy,2024-08-13,2024-08-13,25.73,IT
+DemoBrand,Italy,2024-08-14,2024-08-14,24.4,IT
+DemoBrand,Italy,2024-08-15,2024-08-15,25.01,IT
+DemoBrand,Italy,2024-08-16,2024-08-16,28.36,IT
+DemoBrand,Italy,2024-08-17,2024-08-17,27.66,IT
+DemoBrand,Italy,2024-08-18,2024-08-18,27.63,IT
+DemoBrand,Italy,2024-08-19,2024-08-19,26.23,IT
+DemoBrand,Italy,2024-08-20,2024-08-20,28.15,IT
+DemoBrand,Italy,2024-08-21,2024-08-21,26.02,IT
+DemoBrand,Italy,2024-08-22,2024-08-22,27.12,IT
+DemoBrand,Italy,2024-08-23,2024-08-23,29.93,IT
+DemoBrand,Italy,2024-08-24,2024-08-24,30.12,IT
+DemoBrand,Italy,2024-08-25,2024-08-25,26.8,IT
+DemoBrand,Italy,2024-08-26,2024-08-26,27.46,IT
+DemoBrand,Italy,2024-08-27,2024-08-27,29.81,IT
+DemoBrand,Italy,2024-08-28,2024-08-28,33.47,IT
+DemoBrand,Italy,2024-08-29,2024-08-29,26.61,IT
+DemoBrand,Italy,2024-08-30,2024-08-30,31.41,IT
+DemoBrand,Italy,2024-08-31,2024-08-31,28.51,IT
+DemoBrand,Italy,2024-09-01,2024-09-01,30.39,IT
+DemoBrand,Italy,2024-09-02,2024-09-02,31.31,IT
+DemoBrand,Italy,2024-09-03,2024-09-03,31.55,IT
+DemoBrand,Italy,2024-09-04,2024-09-04,31.65,IT
+DemoBrand,Italy,2024-09-05,2024-09-05,33.04,IT
+DemoBrand,Italy,2024-09-06,2024-09-06,32.22,IT
+DemoBrand,Italy,2024-09-07,2024-09-07,30.6,IT
+DemoBrand,Italy,2024-09-08,2024-09-08,35.28,IT
+DemoBrand,Italy,2024-09-09,2024-09-09,35.38,IT
+DemoBrand,Italy,2024-09-10,2024-09-10,35.67,IT
+DemoBrand,Italy,2024-09-11,2024-09-11,30.97,IT
+DemoBrand,Italy,2024-09-12,2024-09-12,34.68,IT
+DemoBrand,Italy,2024-09-13,2024-09-13,35.41,IT
+DemoBrand,Italy,2024-09-14,2024-09-14,31.94,IT
+DemoBrand,Italy,2024-09-15,2024-09-15,33.92,IT
+DemoBrand,Italy,2024-09-16,2024-09-16,33.52,IT
+DemoBrand,Italy,2024-09-17,2024-09-17,37.25,IT
+DemoBrand,Italy,2024-09-18,2024-09-18,37.19,IT
+DemoBrand,Italy,2024-09-19,2024-09-19,29.75,IT
+DemoBrand,Italy,2024-09-20,2024-09-20,37.78,IT
+DemoBrand,Italy,2024-09-21,2024-09-21,30.64,IT
+DemoBrand,Italy,2024-09-22,2024-09-22,34.08,IT
+DemoBrand,Italy,2024-09-23,2024-09-23,33.7,IT
+DemoBrand,Italy,2024-09-24,2024-09-24,29.38,IT
+DemoBrand,Italy,2024-09-25,2024-09-25,31.95,IT
+DemoBrand,Italy,2024-09-26,2024-09-26,30.34,IT
+DemoBrand,Italy,2024-09-27,2024-09-27,31.25,IT
+DemoBrand,Italy,2024-09-28,2024-09-28,30.19,IT
+DemoBrand,Italy,2024-09-29,2024-09-29,31.71,IT
+DemoBrand,Italy,2024-09-30,2024-09-30,29.07,IT
+DemoBrand,Italy,2024-10-01,2024-10-01,28.2,IT
+DemoBrand,Italy,2024-10-02,2024-10-02,30.36,IT
+DemoBrand,Italy,2024-10-03,2024-10-03,28.98,IT
+DemoBrand,Italy,2024-10-04,2024-10-04,28.96,IT
+DemoBrand,Italy,2024-10-05,2024-10-05,25.88,IT
+DemoBrand,Italy,2024-10-06,2024-10-06,24.86,IT
+DemoBrand,Italy,2024-10-07,2024-10-07,25.59,IT
+DemoBrand,Italy,2024-10-08,2024-10-08,25.3,IT
+DemoBrand,Italy,2024-10-09,2024-10-09,27.96,IT
+DemoBrand,Italy,2024-10-10,2024-10-10,28.24,IT
+DemoBrand,Italy,2024-10-11,2024-10-11,25.92,IT
+DemoBrand,Italy,2024-10-12,2024-10-12,29.07,IT
+DemoBrand,Italy,2024-10-13,2024-10-13,28.97,IT
+DemoBrand,Italy,2024-10-14,2024-10-14,26.79,IT
+DemoBrand,Italy,2024-10-15,2024-10-15,24.77,IT
+DemoBrand,Italy,2024-10-16,2024-10-16,29.72,IT
+DemoBrand,Italy,2024-10-17,2024-10-17,26.65,IT
+DemoBrand,Italy,2024-10-18,2024-10-18,27.25,IT
+DemoBrand,Italy,2024-10-19,2024-10-19,26.59,IT
+DemoBrand,Italy,2024-10-20,2024-10-20,25.79,IT
+DemoBrand,Italy,2024-10-21,2024-10-21,24.96,IT
+DemoBrand,Italy,2024-10-22,2024-10-22,29.52,IT
+DemoBrand,Italy,2024-10-23,2024-10-23,27.06,IT
+DemoBrand,Italy,2024-10-24,2024-10-24,35.14,IT
+DemoBrand,Italy,2024-10-25,2024-10-25,27.26,IT
+DemoBrand,Italy,2024-10-26,2024-10-26,27.34,IT
+DemoBrand,Italy,2024-10-27,2024-10-27,31.29,IT
+DemoBrand,Italy,2024-10-28,2024-10-28,33.76,IT
+DemoBrand,Italy,2024-10-29,2024-10-29,31.24,IT
+DemoBrand,Italy,2024-10-30,2024-10-30,32.67,IT
+DemoBrand,Italy,2024-10-31,2024-10-31,28.23,IT
+DemoBrand,Italy,2024-11-01,2024-11-01,30.94,IT
+DemoBrand,Italy,2024-11-02,2024-11-02,30.5,IT
+DemoBrand,Italy,2024-11-03,2024-11-03,29.19,IT
+DemoBrand,Italy,2024-11-04,2024-11-04,33.52,IT
+DemoBrand,Italy,2024-11-05,2024-11-05,29.06,IT
+DemoBrand,Italy,2024-11-06,2024-11-06,31.14,IT
+DemoBrand,Italy,2024-11-07,2024-11-07,32.9,IT
+DemoBrand,Italy,2024-11-08,2024-11-08,32.47,IT
+DemoBrand,Italy,2024-11-09,2024-11-09,35.04,IT
+DemoBrand,Italy,2024-11-10,2024-11-10,34.92,IT
+DemoBrand,Italy,2024-11-11,2024-11-11,36.13,IT
+DemoBrand,Italy,2024-11-12,2024-11-12,35.83,IT
+DemoBrand,Italy,2024-11-13,2024-11-13,36.54,IT
+DemoBrand,Italy,2024-11-14,2024-11-14,34.15,IT
+DemoBrand,Italy,2024-11-15,2024-11-15,34.62,IT
+DemoBrand,Italy,2024-11-16,2024-11-16,34.85,IT
+DemoBrand,Italy,2024-11-17,2024-11-17,33.88,IT
+DemoBrand,Italy,2024-11-18,2024-11-18,32.55,IT
+DemoBrand,Italy,2024-11-19,2024-11-19,32.39,IT
+DemoBrand,Italy,2024-11-20,2024-11-20,31.09,IT
+DemoBrand,Italy,2024-11-21,2024-11-21,33.23,IT
+DemoBrand,Italy,2024-11-22,2024-11-22,31.83,IT
+DemoBrand,Italy,2024-11-23,2024-11-23,30.3,IT
+DemoBrand,Italy,2024-11-24,2024-11-24,29.9,IT
+DemoBrand,Italy,2024-11-25,2024-11-25,28.4,IT
+DemoBrand,Italy,2024-11-26,2024-11-26,32.36,IT
+DemoBrand,Italy,2024-11-27,2024-11-27,30.15,IT
+DemoBrand,Italy,2024-11-28,2024-11-28,27.86,IT
+DemoBrand,Italy,2024-11-29,2024-11-29,30.8,IT
+DemoBrand,Italy,2024-11-30,2024-11-30,27.67,IT
+DemoBrand,Italy,2024-12-01,2024-12-01,25.61,IT
+DemoBrand,Italy,2024-12-02,2024-12-02,30.12,IT
+DemoBrand,Italy,2024-12-03,2024-12-03,26.68,IT
+DemoBrand,Italy,2024-12-04,2024-12-04,26.65,IT
+DemoBrand,Italy,2024-12-05,2024-12-05,27.29,IT
+DemoBrand,Italy,2024-12-06,2024-12-06,29.27,IT
+DemoBrand,Italy,2024-12-07,2024-12-07,26.84,IT
+DemoBrand,Italy,2024-12-08,2024-12-08,24.25,IT
+DemoBrand,Italy,2024-12-09,2024-12-09,27.64,IT
+DemoBrand,Italy,2024-12-10,2024-12-10,25.52,IT
+DemoBrand,Italy,2024-12-11,2024-12-11,30.25,IT
+DemoBrand,Italy,2024-12-12,2024-12-12,26.49,IT
+DemoBrand,Italy,2024-12-13,2024-12-13,22.1,IT
+DemoBrand,Italy,2024-12-14,2024-12-14,27.39,IT
+DemoBrand,Italy,2024-12-15,2024-12-15,30.72,IT
+DemoBrand,Italy,2024-12-16,2024-12-16,30.18,IT
+DemoBrand,Italy,2024-12-17,2024-12-17,30.92,IT
+DemoBrand,Italy,2024-12-18,2024-12-18,25.49,IT
+DemoBrand,Italy,2024-12-19,2024-12-19,29.65,IT
+DemoBrand,Italy,2024-12-20,2024-12-20,26.71,IT
+DemoBrand,Italy,2024-12-21,2024-12-21,28.96,IT
+DemoBrand,Italy,2024-12-22,2024-12-22,26.34,IT
+DemoBrand,Italy,2024-12-23,2024-12-23,28.0,IT
+DemoBrand,Italy,2024-12-24,2024-12-24,28.34,IT
+DemoBrand,Italy,2024-12-25,2024-12-25,31.91,IT
+DemoBrand,Italy,2024-12-26,2024-12-26,32.14,IT
+DemoBrand,Italy,2024-12-27,2024-12-27,31.51,IT
+DemoBrand,Italy,2024-12-28,2024-12-28,28.67,IT
+DemoBrand,Italy,2024-12-29,2024-12-29,31.16,IT
+DemoBrand,Spain,2024-01-01,2024-01-01,20.51,ES
+DemoBrand,Spain,2024-01-02,2024-01-02,20.7,ES
+DemoBrand,Spain,2024-01-03,2024-01-03,17.5,ES
+DemoBrand,Spain,2024-01-04,2024-01-04,13.95,ES
+DemoBrand,Spain,2024-01-05,2024-01-05,16.3,ES
+DemoBrand,Spain,2024-01-06,2024-01-06,23.06,ES
+DemoBrand,Spain,2024-01-07,2024-01-07,19.78,ES
+DemoBrand,Spain,2024-01-08,2024-01-08,19.42,ES
+DemoBrand,Spain,2024-01-09,2024-01-09,24.52,ES
+DemoBrand,Spain,2024-01-10,2024-01-10,24.04,ES
+DemoBrand,Spain,2024-01-11,2024-01-11,21.8,ES
+DemoBrand,Spain,2024-01-12,2024-01-12,21.37,ES
+DemoBrand,Spain,2024-01-13,2024-01-13,21.85,ES
+DemoBrand,Spain,2024-01-14,2024-01-14,22.69,ES
+DemoBrand,Spain,2024-01-15,2024-01-15,25.52,ES
+DemoBrand,Spain,2024-01-16,2024-01-16,23.2,ES
+DemoBrand,Spain,2024-01-17,2024-01-17,23.79,ES
+DemoBrand,Spain,2024-01-18,2024-01-18,24.63,ES
+DemoBrand,Spain,2024-01-19,2024-01-19,19.86,ES
+DemoBrand,Spain,2024-01-20,2024-01-20,23.57,ES
+DemoBrand,Spain,2024-01-21,2024-01-21,21.29,ES
+DemoBrand,Spain,2024-01-22,2024-01-22,16.63,ES
+DemoBrand,Spain,2024-01-23,2024-01-23,17.16,ES
+DemoBrand,Spain,2024-01-24,2024-01-24,19.1,ES
+DemoBrand,Spain,2024-01-25,2024-01-25,21.88,ES
+DemoBrand,Spain,2024-01-26,2024-01-26,20.71,ES
+DemoBrand,Spain,2024-01-27,2024-01-27,20.49,ES
+DemoBrand,Spain,2024-01-28,2024-01-28,23.65,ES
+DemoBrand,Spain,2024-01-29,2024-01-29,16.82,ES
+DemoBrand,Spain,2024-01-30,2024-01-30,18.9,ES
+DemoBrand,Spain,2024-01-31,2024-01-31,19.16,ES
+DemoBrand,Spain,2024-02-01,2024-02-01,16.67,ES
+DemoBrand,Spain,2024-02-02,2024-02-02,17.8,ES
+DemoBrand,Spain,2024-02-03,2024-02-03,14.15,ES
+DemoBrand,Spain,2024-02-04,2024-02-04,19.8,ES
+DemoBrand,Spain,2024-02-05,2024-02-05,15.25,ES
+DemoBrand,Spain,2024-02-06,2024-02-06,20.34,ES
+DemoBrand,Spain,2024-02-07,2024-02-07,15.9,ES
+DemoBrand,Spain,2024-02-08,2024-02-08,17.74,ES
+DemoBrand,Spain,2024-02-09,2024-02-09,15.33,ES
+DemoBrand,Spain,2024-02-10,2024-02-10,15.16,ES
+DemoBrand,Spain,2024-02-11,2024-02-11,13.88,ES
+DemoBrand,Spain,2024-02-12,2024-02-12,15.14,ES
+DemoBrand,Spain,2024-02-13,2024-02-13,15.45,ES
+DemoBrand,Spain,2024-02-14,2024-02-14,13.19,ES
+DemoBrand,Spain,2024-02-15,2024-02-15,14.5,ES
+DemoBrand,Spain,2024-02-16,2024-02-16,13.57,ES
+DemoBrand,Spain,2024-02-17,2024-02-17,19.46,ES
+DemoBrand,Spain,2024-02-18,2024-02-18,14.81,ES
+DemoBrand,Spain,2024-02-19,2024-02-19,18.24,ES
+DemoBrand,Spain,2024-02-20,2024-02-20,14.96,ES
+DemoBrand,Spain,2024-02-21,2024-02-21,16.11,ES
+DemoBrand,Spain,2024-02-22,2024-02-22,13.23,ES
+DemoBrand,Spain,2024-02-23,2024-02-23,15.29,ES
+DemoBrand,Spain,2024-02-24,2024-02-24,16.94,ES
+DemoBrand,Spain,2024-02-25,2024-02-25,20.06,ES
+DemoBrand,Spain,2024-02-26,2024-02-26,17.71,ES
+DemoBrand,Spain,2024-02-27,2024-02-27,20.44,ES
+DemoBrand,Spain,2024-02-28,2024-02-28,19.37,ES
+DemoBrand,Spain,2024-02-29,2024-02-29,21.77,ES
+DemoBrand,Spain,2024-03-01,2024-03-01,18.83,ES
+DemoBrand,Spain,2024-03-02,2024-03-02,24.16,ES
+DemoBrand,Spain,2024-03-03,2024-03-03,18.84,ES
+DemoBrand,Spain,2024-03-04,2024-03-04,18.69,ES
+DemoBrand,Spain,2024-03-05,2024-03-05,18.21,ES
+DemoBrand,Spain,2024-03-06,2024-03-06,25.68,ES
+DemoBrand,Spain,2024-03-07,2024-03-07,23.02,ES
+DemoBrand,Spain,2024-03-08,2024-03-08,21.05,ES
+DemoBrand,Spain,2024-03-09,2024-03-09,24.53,ES
+DemoBrand,Spain,2024-03-10,2024-03-10,23.68,ES
+DemoBrand,Spain,2024-03-11,2024-03-11,26.48,ES
+DemoBrand,Spain,2024-03-12,2024-03-12,19.66,ES
+DemoBrand,Spain,2024-03-13,2024-03-13,22.38,ES
+DemoBrand,Spain,2024-03-14,2024-03-14,22.11,ES
+DemoBrand,Spain,2024-03-15,2024-03-15,19.17,ES
+DemoBrand,Spain,2024-03-16,2024-03-16,25.27,ES
+DemoBrand,Spain,2024-03-17,2024-03-17,22.6,ES
+DemoBrand,Spain,2024-03-18,2024-03-18,24.57,ES
+DemoBrand,Spain,2024-03-19,2024-03-19,27.71,ES
+DemoBrand,Spain,2024-03-20,2024-03-20,22.15,ES
+DemoBrand,Spain,2024-03-21,2024-03-21,21.84,ES
+DemoBrand,Spain,2024-03-22,2024-03-22,22.7,ES
+DemoBrand,Spain,2024-03-23,2024-03-23,24.19,ES
+DemoBrand,Spain,2024-03-24,2024-03-24,20.8,ES
+DemoBrand,Spain,2024-03-25,2024-03-25,20.36,ES
+DemoBrand,Spain,2024-03-26,2024-03-26,23.4,ES
+DemoBrand,Spain,2024-03-27,2024-03-27,21.68,ES
+DemoBrand,Spain,2024-03-28,2024-03-28,16.46,ES
+DemoBrand,Spain,2024-03-29,2024-03-29,17.7,ES
+DemoBrand,Spain,2024-03-30,2024-03-30,22.76,ES
+DemoBrand,Spain,2024-03-31,2024-03-31,20.15,ES
+DemoBrand,Spain,2024-04-01,2024-04-01,17.42,ES
+DemoBrand,Spain,2024-04-02,2024-04-02,18.2,ES
+DemoBrand,Spain,2024-04-03,2024-04-03,18.18,ES
+DemoBrand,Spain,2024-04-04,2024-04-04,19.25,ES
+DemoBrand,Spain,2024-04-05,2024-04-05,14.7,ES
+DemoBrand,Spain,2024-04-06,2024-04-06,15.4,ES
+DemoBrand,Spain,2024-04-07,2024-04-07,17.31,ES
+DemoBrand,Spain,2024-04-08,2024-04-08,16.28,ES
+DemoBrand,Spain,2024-04-09,2024-04-09,17.38,ES
+DemoBrand,Spain,2024-04-10,2024-04-10,13.56,ES
+DemoBrand,Spain,2024-04-11,2024-04-11,16.56,ES
+DemoBrand,Spain,2024-04-12,2024-04-12,17.89,ES
+DemoBrand,Spain,2024-04-13,2024-04-13,16.58,ES
+DemoBrand,Spain,2024-04-14,2024-04-14,15.84,ES
+DemoBrand,Spain,2024-04-15,2024-04-15,15.36,ES
+DemoBrand,Spain,2024-04-16,2024-04-16,13.92,ES
+DemoBrand,Spain,2024-04-17,2024-04-17,15.52,ES
+DemoBrand,Spain,2024-04-18,2024-04-18,18.3,ES
+DemoBrand,Spain,2024-04-19,2024-04-19,15.71,ES
+DemoBrand,Spain,2024-04-20,2024-04-20,14.37,ES
+DemoBrand,Spain,2024-04-21,2024-04-21,15.41,ES
+DemoBrand,Spain,2024-04-22,2024-04-22,17.07,ES
+DemoBrand,Spain,2024-04-23,2024-04-23,16.23,ES
+DemoBrand,Spain,2024-04-24,2024-04-24,18.29,ES
+DemoBrand,Spain,2024-04-25,2024-04-25,18.73,ES
+DemoBrand,Spain,2024-04-26,2024-04-26,19.85,ES
+DemoBrand,Spain,2024-04-27,2024-04-27,21.32,ES
+DemoBrand,Spain,2024-04-28,2024-04-28,20.88,ES
+DemoBrand,Spain,2024-04-29,2024-04-29,17.45,ES
+DemoBrand,Spain,2024-04-30,2024-04-30,17.94,ES
+DemoBrand,Spain,2024-05-01,2024-05-01,20.03,ES
+DemoBrand,Spain,2024-05-02,2024-05-02,19.71,ES
+DemoBrand,Spain,2024-05-03,2024-05-03,18.75,ES
+DemoBrand,Spain,2024-05-04,2024-05-04,20.55,ES
+DemoBrand,Spain,2024-05-05,2024-05-05,20.87,ES
+DemoBrand,Spain,2024-05-06,2024-05-06,20.84,ES
+DemoBrand,Spain,2024-05-07,2024-05-07,21.89,ES
+DemoBrand,Spain,2024-05-08,2024-05-08,25.19,ES
+DemoBrand,Spain,2024-05-09,2024-05-09,23.5,ES
+DemoBrand,Spain,2024-05-10,2024-05-10,28.29,ES
+DemoBrand,Spain,2024-05-11,2024-05-11,23.89,ES
+DemoBrand,Spain,2024-05-12,2024-05-12,23.13,ES
+DemoBrand,Spain,2024-05-13,2024-05-13,23.84,ES
+DemoBrand,Spain,2024-05-14,2024-05-14,24.43,ES
+DemoBrand,Spain,2024-05-15,2024-05-15,24.82,ES
+DemoBrand,Spain,2024-05-16,2024-05-16,28.09,ES
+DemoBrand,Spain,2024-05-17,2024-05-17,22.2,ES
+DemoBrand,Spain,2024-05-18,2024-05-18,25.51,ES
+DemoBrand,Spain,2024-05-19,2024-05-19,24.07,ES
+DemoBrand,Spain,2024-05-20,2024-05-20,20.34,ES
+DemoBrand,Spain,2024-05-21,2024-05-21,24.81,ES
+DemoBrand,Spain,2024-05-22,2024-05-22,25.55,ES
+DemoBrand,Spain,2024-05-23,2024-05-23,21.02,ES
+DemoBrand,Spain,2024-05-24,2024-05-24,22.4,ES
+DemoBrand,Spain,2024-05-25,2024-05-25,18.63,ES
+DemoBrand,Spain,2024-05-26,2024-05-26,19.2,ES
+DemoBrand,Spain,2024-05-27,2024-05-27,23.44,ES
+DemoBrand,Spain,2024-05-28,2024-05-28,20.02,ES
+DemoBrand,Spain,2024-05-29,2024-05-29,18.34,ES
+DemoBrand,Spain,2024-05-30,2024-05-30,20.61,ES
+DemoBrand,Spain,2024-05-31,2024-05-31,18.7,ES
+DemoBrand,Spain,2024-06-01,2024-06-01,18.4,ES
+DemoBrand,Spain,2024-06-02,2024-06-02,20.43,ES
+DemoBrand,Spain,2024-06-03,2024-06-03,16.25,ES
+DemoBrand,Spain,2024-06-04,2024-06-04,16.4,ES
+DemoBrand,Spain,2024-06-05,2024-06-05,18.19,ES
+DemoBrand,Spain,2024-06-06,2024-06-06,19.5,ES
+DemoBrand,Spain,2024-06-07,2024-06-07,19.76,ES
+DemoBrand,Spain,2024-06-08,2024-06-08,15.7,ES
+DemoBrand,Spain,2024-06-09,2024-06-09,18.69,ES
+DemoBrand,Spain,2024-06-10,2024-06-10,15.07,ES
+DemoBrand,Spain,2024-06-11,2024-06-11,20.16,ES
+DemoBrand,Spain,2024-06-12,2024-06-12,14.14,ES
+DemoBrand,Spain,2024-06-13,2024-06-13,19.01,ES
+DemoBrand,Spain,2024-06-14,2024-06-14,15.04,ES
+DemoBrand,Spain,2024-06-15,2024-06-15,20.41,ES
+DemoBrand,Spain,2024-06-16,2024-06-16,17.65,ES
+DemoBrand,Spain,2024-06-17,2024-06-17,14.55,ES
+DemoBrand,Spain,2024-06-18,2024-06-18,15.7,ES
+DemoBrand,Spain,2024-06-19,2024-06-19,18.51,ES
+DemoBrand,Spain,2024-06-20,2024-06-20,19.3,ES
+DemoBrand,Spain,2024-06-21,2024-06-21,17.33,ES
+DemoBrand,Spain,2024-06-22,2024-06-22,17.87,ES
+DemoBrand,Spain,2024-06-23,2024-06-23,19.63,ES
+DemoBrand,Spain,2024-06-24,2024-06-24,18.75,ES
+DemoBrand,Spain,2024-06-25,2024-06-25,16.28,ES
+DemoBrand,Spain,2024-06-26,2024-06-26,17.65,ES
+DemoBrand,Spain,2024-06-27,2024-06-27,20.16,ES
+DemoBrand,Spain,2024-06-28,2024-06-28,22.55,ES
+DemoBrand,Spain,2024-06-29,2024-06-29,23.78,ES
+DemoBrand,Spain,2024-06-30,2024-06-30,22.54,ES
+DemoBrand,Spain,2024-07-01,2024-07-01,21.98,ES
+DemoBrand,Spain,2024-07-02,2024-07-02,23.32,ES
+DemoBrand,Spain,2024-07-03,2024-07-03,20.9,ES
+DemoBrand,Spain,2024-07-04,2024-07-04,22.31,ES
+DemoBrand,Spain,2024-07-05,2024-07-05,21.33,ES
+DemoBrand,Spain,2024-07-06,2024-07-06,20.82,ES
+DemoBrand,Spain,2024-07-07,2024-07-07,24.29,ES
+DemoBrand,Spain,2024-07-08,2024-07-08,24.28,ES
+DemoBrand,Spain,2024-07-09,2024-07-09,25.52,ES
+DemoBrand,Spain,2024-07-10,2024-07-10,25.44,ES
+DemoBrand,Spain,2024-07-11,2024-07-11,25.0,ES
+DemoBrand,Spain,2024-07-12,2024-07-12,25.75,ES
+DemoBrand,Spain,2024-07-13,2024-07-13,24.63,ES
+DemoBrand,Spain,2024-07-14,2024-07-14,25.57,ES
+DemoBrand,Spain,2024-07-15,2024-07-15,23.29,ES
+DemoBrand,Spain,2024-07-16,2024-07-16,25.43,ES
+DemoBrand,Spain,2024-07-17,2024-07-17,25.93,ES
+DemoBrand,Spain,2024-07-18,2024-07-18,23.12,ES
+DemoBrand,Spain,2024-07-19,2024-07-19,24.38,ES
+DemoBrand,Spain,2024-07-20,2024-07-20,22.82,ES
+DemoBrand,Spain,2024-07-21,2024-07-21,22.76,ES
+DemoBrand,Spain,2024-07-22,2024-07-22,21.28,ES
+DemoBrand,Spain,2024-07-23,2024-07-23,25.75,ES
+DemoBrand,Spain,2024-07-24,2024-07-24,25.01,ES
+DemoBrand,Spain,2024-07-25,2024-07-25,23.6,ES
+DemoBrand,Spain,2024-07-26,2024-07-26,26.09,ES
+DemoBrand,Spain,2024-07-27,2024-07-27,21.37,ES
+DemoBrand,Spain,2024-07-28,2024-07-28,27.42,ES
+DemoBrand,Spain,2024-07-29,2024-07-29,20.49,ES
+DemoBrand,Spain,2024-07-30,2024-07-30,21.05,ES
+DemoBrand,Spain,2024-07-31,2024-07-31,19.35,ES
+DemoBrand,Spain,2024-08-01,2024-08-01,20.5,ES
+DemoBrand,Spain,2024-08-02,2024-08-02,21.05,ES
+DemoBrand,Spain,2024-08-03,2024-08-03,18.79,ES
+DemoBrand,Spain,2024-08-04,2024-08-04,22.23,ES
+DemoBrand,Spain,2024-08-05,2024-08-05,18.84,ES
+DemoBrand,Spain,2024-08-06,2024-08-06,18.62,ES
+DemoBrand,Spain,2024-08-07,2024-08-07,16.01,ES
+DemoBrand,Spain,2024-08-08,2024-08-08,18.45,ES
+DemoBrand,Spain,2024-08-09,2024-08-09,17.17,ES
+DemoBrand,Spain,2024-08-10,2024-08-10,16.09,ES
+DemoBrand,Spain,2024-08-11,2024-08-11,15.66,ES
+DemoBrand,Spain,2024-08-12,2024-08-12,22.5,ES
+DemoBrand,Spain,2024-08-13,2024-08-13,16.62,ES
+DemoBrand,Spain,2024-08-14,2024-08-14,14.27,ES
+DemoBrand,Spain,2024-08-15,2024-08-15,15.87,ES
+DemoBrand,Spain,2024-08-16,2024-08-16,17.28,ES
+DemoBrand,Spain,2024-08-17,2024-08-17,18.64,ES
+DemoBrand,Spain,2024-08-18,2024-08-18,18.86,ES
+DemoBrand,Spain,2024-08-19,2024-08-19,19.34,ES
+DemoBrand,Spain,2024-08-20,2024-08-20,16.98,ES
+DemoBrand,Spain,2024-08-21,2024-08-21,19.26,ES
+DemoBrand,Spain,2024-08-22,2024-08-22,17.16,ES
+DemoBrand,Spain,2024-08-23,2024-08-23,18.04,ES
+DemoBrand,Spain,2024-08-24,2024-08-24,17.83,ES
+DemoBrand,Spain,2024-08-25,2024-08-25,17.69,ES
+DemoBrand,Spain,2024-08-26,2024-08-26,22.62,ES
+DemoBrand,Spain,2024-08-27,2024-08-27,22.29,ES
+DemoBrand,Spain,2024-08-28,2024-08-28,23.3,ES
+DemoBrand,Spain,2024-08-29,2024-08-29,21.86,ES
+DemoBrand,Spain,2024-08-30,2024-08-30,23.76,ES
+DemoBrand,Spain,2024-08-31,2024-08-31,19.1,ES
+DemoBrand,Spain,2024-09-01,2024-09-01,24.75,ES
+DemoBrand,Spain,2024-09-02,2024-09-02,23.77,ES
+DemoBrand,Spain,2024-09-03,2024-09-03,25.03,ES
+DemoBrand,Spain,2024-09-04,2024-09-04,24.88,ES
+DemoBrand,Spain,2024-09-05,2024-09-05,22.45,ES
+DemoBrand,Spain,2024-09-06,2024-09-06,21.71,ES
+DemoBrand,Spain,2024-09-07,2024-09-07,23.52,ES
+DemoBrand,Spain,2024-09-08,2024-09-08,26.28,ES
+DemoBrand,Spain,2024-09-09,2024-09-09,26.69,ES
+DemoBrand,Spain,2024-09-10,2024-09-10,22.7,ES
+DemoBrand,Spain,2024-09-11,2024-09-11,23.55,ES
+DemoBrand,Spain,2024-09-12,2024-09-12,24.1,ES
+DemoBrand,Spain,2024-09-13,2024-09-13,24.82,ES
+DemoBrand,Spain,2024-09-14,2024-09-14,22.76,ES
+DemoBrand,Spain,2024-09-15,2024-09-15,22.55,ES
+DemoBrand,Spain,2024-09-16,2024-09-16,23.61,ES
+DemoBrand,Spain,2024-09-17,2024-09-17,25.25,ES
+DemoBrand,Spain,2024-09-18,2024-09-18,22.5,ES
+DemoBrand,Spain,2024-09-19,2024-09-19,24.38,ES
+DemoBrand,Spain,2024-09-20,2024-09-20,26.45,ES
+DemoBrand,Spain,2024-09-21,2024-09-21,21.41,ES
+DemoBrand,Spain,2024-09-22,2024-09-22,23.27,ES
+DemoBrand,Spain,2024-09-23,2024-09-23,25.37,ES
+DemoBrand,Spain,2024-09-24,2024-09-24,22.11,ES
+DemoBrand,Spain,2024-09-25,2024-09-25,21.4,ES
+DemoBrand,Spain,2024-09-26,2024-09-26,24.48,ES
+DemoBrand,Spain,2024-09-27,2024-09-27,21.13,ES
+DemoBrand,Spain,2024-09-28,2024-09-28,23.55,ES
+DemoBrand,Spain,2024-09-29,2024-09-29,21.8,ES
+DemoBrand,Spain,2024-09-30,2024-09-30,19.86,ES
+DemoBrand,Spain,2024-10-01,2024-10-01,21.13,ES
+DemoBrand,Spain,2024-10-02,2024-10-02,20.45,ES
+DemoBrand,Spain,2024-10-03,2024-10-03,21.52,ES
+DemoBrand,Spain,2024-10-04,2024-10-04,18.07,ES
+DemoBrand,Spain,2024-10-05,2024-10-05,18.96,ES
+DemoBrand,Spain,2024-10-06,2024-10-06,18.51,ES
+DemoBrand,Spain,2024-10-07,2024-10-07,19.82,ES
+DemoBrand,Spain,2024-10-08,2024-10-08,16.19,ES
+DemoBrand,Spain,2024-10-09,2024-10-09,20.14,ES
+DemoBrand,Spain,2024-10-10,2024-10-10,18.94,ES
+DemoBrand,Spain,2024-10-11,2024-10-11,15.32,ES
+DemoBrand,Spain,2024-10-12,2024-10-12,20.36,ES
+DemoBrand,Spain,2024-10-13,2024-10-13,22.45,ES
+DemoBrand,Spain,2024-10-14,2024-10-14,20.06,ES
+DemoBrand,Spain,2024-10-15,2024-10-15,21.04,ES
+DemoBrand,Spain,2024-10-16,2024-10-16,18.52,ES
+DemoBrand,Spain,2024-10-17,2024-10-17,15.23,ES
+DemoBrand,Spain,2024-10-18,2024-10-18,15.1,ES
+DemoBrand,Spain,2024-10-19,2024-10-19,19.58,ES
+DemoBrand,Spain,2024-10-20,2024-10-20,18.19,ES
+DemoBrand,Spain,2024-10-21,2024-10-21,17.89,ES
+DemoBrand,Spain,2024-10-22,2024-10-22,19.95,ES
+DemoBrand,Spain,2024-10-23,2024-10-23,21.7,ES
+DemoBrand,Spain,2024-10-24,2024-10-24,17.96,ES
+DemoBrand,Spain,2024-10-25,2024-10-25,20.39,ES
+DemoBrand,Spain,2024-10-26,2024-10-26,24.73,ES
+DemoBrand,Spain,2024-10-27,2024-10-27,20.0,ES
+DemoBrand,Spain,2024-10-28,2024-10-28,24.32,ES
+DemoBrand,Spain,2024-10-29,2024-10-29,22.04,ES
+DemoBrand,Spain,2024-10-30,2024-10-30,24.51,ES
+DemoBrand,Spain,2024-10-31,2024-10-31,26.02,ES
+DemoBrand,Spain,2024-11-01,2024-11-01,25.7,ES
+DemoBrand,Spain,2024-11-02,2024-11-02,26.4,ES
+DemoBrand,Spain,2024-11-03,2024-11-03,22.61,ES
+DemoBrand,Spain,2024-11-04,2024-11-04,27.45,ES
+DemoBrand,Spain,2024-11-05,2024-11-05,23.8,ES
+DemoBrand,Spain,2024-11-06,2024-11-06,26.26,ES
+DemoBrand,Spain,2024-11-07,2024-11-07,26.46,ES
+DemoBrand,Spain,2024-11-08,2024-11-08,27.08,ES
+DemoBrand,Spain,2024-11-09,2024-11-09,26.91,ES
+DemoBrand,Spain,2024-11-10,2024-11-10,24.62,ES
+DemoBrand,Spain,2024-11-11,2024-11-11,23.65,ES
+DemoBrand,Spain,2024-11-12,2024-11-12,28.08,ES
+DemoBrand,Spain,2024-11-13,2024-11-13,26.66,ES
+DemoBrand,Spain,2024-11-14,2024-11-14,28.49,ES
+DemoBrand,Spain,2024-11-15,2024-11-15,25.96,ES
+DemoBrand,Spain,2024-11-16,2024-11-16,23.07,ES
+DemoBrand,Spain,2024-11-17,2024-11-17,27.59,ES
+DemoBrand,Spain,2024-11-18,2024-11-18,24.67,ES
+DemoBrand,Spain,2024-11-19,2024-11-19,25.81,ES
+DemoBrand,Spain,2024-11-20,2024-11-20,23.52,ES
+DemoBrand,Spain,2024-11-21,2024-11-21,27.77,ES
+DemoBrand,Spain,2024-11-22,2024-11-22,22.37,ES
+DemoBrand,Spain,2024-11-23,2024-11-23,23.07,ES
+DemoBrand,Spain,2024-11-24,2024-11-24,23.57,ES
+DemoBrand,Spain,2024-11-25,2024-11-25,20.77,ES
+DemoBrand,Spain,2024-11-26,2024-11-26,23.21,ES
+DemoBrand,Spain,2024-11-27,2024-11-27,25.36,ES
+DemoBrand,Spain,2024-11-28,2024-11-28,20.76,ES
+DemoBrand,Spain,2024-11-29,2024-11-29,22.14,ES
+DemoBrand,Spain,2024-11-30,2024-11-30,15.47,ES
+DemoBrand,Spain,2024-12-01,2024-12-01,20.53,ES
+DemoBrand,Spain,2024-12-02,2024-12-02,19.65,ES
+DemoBrand,Spain,2024-12-03,2024-12-03,18.33,ES
+DemoBrand,Spain,2024-12-04,2024-12-04,21.84,ES
+DemoBrand,Spain,2024-12-05,2024-12-05,18.78,ES
+DemoBrand,Spain,2024-12-06,2024-12-06,18.86,ES
+DemoBrand,Spain,2024-12-07,2024-12-07,18.28,ES
+DemoBrand,Spain,2024-12-08,2024-12-08,15.07,ES
+DemoBrand,Spain,2024-12-09,2024-12-09,16.54,ES
+DemoBrand,Spain,2024-12-10,2024-12-10,20.68,ES
+DemoBrand,Spain,2024-12-11,2024-12-11,14.53,ES
+DemoBrand,Spain,2024-12-12,2024-12-12,17.25,ES
+DemoBrand,Spain,2024-12-13,2024-12-13,18.06,ES
+DemoBrand,Spain,2024-12-14,2024-12-14,22.47,ES
+DemoBrand,Spain,2024-12-15,2024-12-15,20.68,ES
+DemoBrand,Spain,2024-12-16,2024-12-16,18.23,ES
+DemoBrand,Spain,2024-12-17,2024-12-17,22.2,ES
+DemoBrand,Spain,2024-12-18,2024-12-18,18.39,ES
+DemoBrand,Spain,2024-12-19,2024-12-19,22.19,ES
+DemoBrand,Spain,2024-12-20,2024-12-20,17.8,ES
+DemoBrand,Spain,2024-12-21,2024-12-21,23.03,ES
+DemoBrand,Spain,2024-12-22,2024-12-22,20.45,ES
+DemoBrand,Spain,2024-12-23,2024-12-23,19.61,ES
+DemoBrand,Spain,2024-12-24,2024-12-24,21.65,ES
+DemoBrand,Spain,2024-12-25,2024-12-25,23.07,ES
+DemoBrand,Spain,2024-12-26,2024-12-26,21.96,ES
+DemoBrand,Spain,2024-12-27,2024-12-27,24.48,ES
+DemoBrand,Spain,2024-12-28,2024-12-28,22.64,ES
+DemoBrand,Spain,2024-12-29,2024-12-29,25.46,ES
